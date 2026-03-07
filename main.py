@@ -2,13 +2,12 @@ import feedparser
 import os
 import hashlib
 import time
-import google.generativeai as genai
+from groq import Groq
 from datetime import datetime
 
 # --- CONFIGURATION ---
-# Get your key from https://aistudio.google.com/
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel('gemini-2.5-flash')
+# Get your key from https://console.groq.com/keys
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 RSS_SOURCES = [
     "https://thehackernews.com/rss",
@@ -37,8 +36,22 @@ def generate_bulletin(entry):
     ## 🛠 Technical Analysis
     ## 🛡 Mitigation & Impact
     """
-    response = model.generate_content(prompt)
-    return response.text
+    
+    response = client.chat.completions.create(
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a Senior Cybersecurity Architect. Output only the requested Markdown."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        model="llama-3.3-70b-versatile",
+    )
+    
+    return response.choices[0].message.content
 
 def main():
     if not os.path.exists("posts"): os.makedirs("posts")
