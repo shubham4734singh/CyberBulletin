@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CyberBulletin | Intel Feed</title>
+    <style>
+        body {
+            background: #0d1117;
+            color: #c9d1d9;
+            font-family: 'Segoe UI', monospace;
+            line-height: 1.6;
+            padding: 5%;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        h1 {
+            color: #58a6ff;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 10px;
+            cursor: pointer;
+        }
+
+        .post-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .category {
+            color: #f0883e;
+            font-size: 0.8em;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        a {
+            color: #58a6ff;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .summary {
+            font-size: 0.95em;
+            color: #8b949e;
+            margin-bottom: 10px;
+        }
+
+        #post-content {
+            display: none;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #58a6ff;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .back-btn:hover {
+            text-decoration: underline;
+        }
+
+        /* Markdown Styles */
+        #post-content h2 {
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 0.3em;
+            margin-top: 0;
+        }
+
+        #post-content code {
+            background: rgba(110, 118, 129, 0.4);
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+
+        #post-content pre {
+            background: #0d1117;
+            padding: 16px;
+            border-radius: 6px;
+            overflow: auto;
+        }
+
+        #post-content pre code {
+            background: transparent;
+            padding: 0;
+        }
+
+        #post-content blockquote {
+            border-left: 0.25em solid #30363d;
+            padding: 0 1em;
+            color: #8b949e;
+            margin: 0;
+        }
+    </style>
+    <!-- Include Marked.js -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 onclick="showFeed()">🔒 CyberBulletin</h1>
+        <p>Automated Threat Intelligence | Division 6C1_CYBER</p>
+
+        <div id="feed-container">Loading latest intelligence...</div>
+
+        <div id="post-view" style="display: none;">
+            <div class="back-btn" onclick="showFeed()">← Back to Feed</div>
+            <div id="post-content"></div>
+        </div>
+    </div>
+
+    <script>
+        // REPLACE with your actual GitHub username and repo name once published
+        const USERNAME = 'shubham4734singh'; // TODO: Change this
+        const REPO = 'CyberBulletin';
+
+        async function fetchPosts() {
+            const container = document.getElementById('feed-container');
+            try {
+                // 1. Get the list of files from the /posts folder via GitHub API
+                const response = await fetch(`https://api.github.com/repos/${USERNAME}/${REPO}/contents/posts`);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const files = await response.json();
+
+                if (!files || files.length === 0 || !Array.isArray(files)) {
+                    container.innerHTML = "<p>No intel reports found yet.</p>";
+                    return;
+                }
+
+                container.innerHTML = ''; // Clear loading text
+
+                // 2. Loop through and create links/cards (showing the last 10)
+                files.filter(f => f.name.endsWith('.md')).reverse().slice(0, 10).forEach(file => {
+                    const postCard = document.createElement('div');
+                    postCard.className = 'post-card';
+
+                    // Format the filename for display
+                    const displayName = file.name.replace('.md', '').split('-').slice(1).join(' ');
+                    let postDate = file.name.substring(0, 8); // Assuming YYYYMMDD format
+
+                    if (postDate.length === 8 && !isNaN(postDate)) {
+                        postDate = `${postDate.substring(0, 4)}-${postDate.substring(4, 6)}-${postDate.substring(6, 8)}`;
+                    } else {
+                        postDate = "Unknown Date";
+                    }
+
+                    // Direct download link to fetch the raw text of the file
+                    const downloadUrl = file.download_url;
+
+                    postCard.innerHTML = `
+                        <span class="category">Latest Report</span>
+                        <h3><a onclick="loadPost('${downloadUrl}')">
+                            ${(displayName ? displayName.toUpperCase() : file.name) || "View Intel Report"}
+                        </a></h3>
+                        <p class="summary">Generated on: ${postDate}</p>
+                    `;
+                    container.appendChild(postCard);
+                });
+            } catch (error) {
+                console.error(error);
+                container.innerHTML = "<p>Error loading feed. If running locally right now, you need to push to GitHub first and set your USERNAME. Check repo privacy or GitHub API limits if deployed.</p>";
+            }
+        }
+
+        async function loadPost(url) {
+            document.getElementById('feed-container').style.display = 'none';
+            document.getElementById('post-view').style.display = 'block';
+            const contentDiv = document.getElementById('post-content');
+
+            contentDiv.innerHTML = "Loading post content...";
+            contentDiv.style.display = 'block';
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("Failed to load post");
+
+                let markdown = await response.text();
+
+                // Strip YAML frontmatter from markdown before displaying
+                markdown = markdown.replace(/^---[\s\S]*?---/, '');
+
+                contentDiv.innerHTML = marked.parse(markdown);
+            } catch (error) {
+                console.error(error);
+                contentDiv.innerHTML = "<p>Error loading post content.</p>";
+            }
+        }
+
+        function showFeed() {
+            document.getElementById('post-view').style.display = 'none';
+            document.getElementById('post-content').style.display = 'none';
+            document.getElementById('feed-container').style.display = 'block';
+        }
+
+        // Initialize fetching on page load
+        fetchPosts();
+    </script>
+</body>
+
+</html>

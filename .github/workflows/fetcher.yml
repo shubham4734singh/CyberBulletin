@@ -1,0 +1,54 @@
+name: CyberBulletin Automated Intel Fetcher
+
+on:
+  schedule:
+    # Run twice a day at 06:00 and 18:00 UTC
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: # Allow manual triggering from the GitHub Actions UI
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    
+    # CRITICAL: These permissions are required for the bot to push commits back to the repository
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Fetcher Script
+        env:
+          # Pulls the Gemini API Key from your GitHub Repository Secrets
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
+
+      - name: Commit and Push Changes
+        run: |
+          # Configure Git as the GitHub Actions bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the generated markdown posts and the execution log
+          git add posts/ processed.log
+          
+          # Check if there are any changes to commit
+          if ! git diff-index --quiet HEAD; then
+            echo "New intelligence found! Committing to repository..."
+            git commit -m "Automated intel update: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No new intel to commit today. Exiting cleanly."
+          fi
