@@ -51,6 +51,8 @@ def main():
         processed_hashes = set()
 
     new_hashes = []
+    success_count = 0
+    error_count = 0
 
     for url in RSS_SOURCES:
         print(f"Fetching from {url}...")
@@ -69,13 +71,20 @@ def main():
                         f.write(markdown_content)
                     
                     new_hashes.append(article_hash)
+                    success_count += 1
                 except Exception as e:
                     print(f"Error processing {entry.title}: {e}")
+                    error_count += 1
 
-    # Update history
-    with open(history_file, "a") as f:
-        for h in new_hashes:
-            f.write(h + "\n")
+    # Update history only if we have new hashes
+    if new_hashes:
+        with open(history_file, "a") as f:
+            for h in new_hashes:
+                f.write(h + "\n")
+
+    if success_count == 0 and error_count > 0:
+        print(f"\nCRITICAL: Failed to process any of the {error_count} new articles. Please check your GEMINI_API_KEY and quota.")
+        exit(1)
 
 if __name__ == "__main__":
     main()
