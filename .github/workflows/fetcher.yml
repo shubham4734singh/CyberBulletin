@@ -51,10 +51,12 @@ jobs:
             echo "New intelligence found! Committing to repository..."
             git commit -m "Automated intel update: $(date +'%Y-%m-%d')"
             
-            # Pull remote changes first to avoid conflicts if someone (or another run) pushed recently
-            git pull --rebase origin main
+            # CRITICAL: Since multiple actions or humans might have pushed, 
+            # we must carefully rebase our local commit on top of the remote main branch.
+            git fetch origin main
+            git rebase origin/main
             
-            git push
+            git push origin HEAD:main
           else
             echo "No new intel to commit today. Exiting cleanly."
           fi
