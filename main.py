@@ -1,13 +1,14 @@
 import feedparser
 import os
 import hashlib
+import time
 import google.generativeai as genai
 from datetime import datetime
 
 # --- CONFIGURATION ---
 # Get your key from https://aistudio.google.com/
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel('gemini-2.0-flash')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 RSS_SOURCES = [
     "https://thehackernews.com/rss",
@@ -72,6 +73,10 @@ def main():
                     
                     new_hashes.append(article_hash)
                     success_count += 1
+                    
+                    # Sleep to respect Free Tier API Limits (15 RPM)
+                    print("Sleeping 5 seconds to respect rate limits...")
+                    time.sleep(5) 
                 except Exception as e:
                     print(f"Error processing {entry.title}: {e}")
                     error_count += 1
