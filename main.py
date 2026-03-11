@@ -2,11 +2,13 @@ import feedparser
 import os
 import hashlib
 import time
+import re
+import requests
 from groq import Groq
 from datetime import datetime
+import json
+import yaml
 
-# --- CONFIGURATION ---
-# Get your key from https://console.groq.com/keys
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 RSS_SOURCES = [
@@ -18,7 +20,38 @@ RSS_SOURCES = [
 def get_content_hash(text):
     return hashlib.md5(text.encode('utf-8')).hexdigest()
 
-def generate_bulletin(entry):
+def slugify(text):
+    text = text.lower()
+    return re.sub(r'[^a-z0-9]+', '-', text).strip('-')
+
+def extract_image_url(entry):
+    # Try media_content (common in RSS)
+    if hasattr(entry, 'media_content') and entry.media_content:
+        return entry.media_content[0]['url']
+    # Try links for image types
+    if hasattr(entry, 'links'):
+        for link in entry.links:
+            if link.get('type', '').startswith('image/') or link.get('href', '').endswith(('.jpg', '.png', '.jpeg')):
+                return link.get('href')
+    # Try parsing description for img tags
+    content = entry.get('description', '') or entry.get('summary', '')
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content)
+    if match:
+        return match.group(1)
+    return None
+
+def download_image(url, save_path):
+    try:
+        response = requests.get(url, stream=True, timeout=10)
+        if response.status_code == 200:
+            with open(save_path, 'wb') as f:
+                f.write(response.content)
+            return True
+    except Exception:
+        return False
+    return False
+
+def generate_bulletin(entry, image_path=""):
     prompt = f"""
     Act as a Senior Cybersecurity Architect. Transform this into a technical blog post.
     Title: {entry.title}
@@ -30,6 +63,7 @@ def generate_bulletin(entry):
     title: "{entry.title}"
     date: {datetime.now().strftime('%Y-%m-%d')}
     category: "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]"
+    thumbnail: "{image_path}"
     source_link: "{entry.link}"
     ---
     ## ⚡ Quick Summary
@@ -53,8 +87,36 @@ def generate_bulletin(entry):
     
     return response.choices[0].message.content
 
+def generate_posts_json():
+    posts = []
+    for filename in os.listdir("posts"):
+        if filename.endswith(".md"):
+            with open(os.path.join("posts", filename), "r", encoding="utf-8") as f:
+                content = f.read()
+                # Extract frontmatter
+                try:
+                    _, frontmatter_str, _ = content.split("---", 2)
+                    frontmatter = yaml.safe_load(frontmatter_str)
+                    posts.append({
+                        "title": frontmatter.get("title", "No Title"),
+                        "date": frontmatter.get("date", "No Date"),
+                        "category": frontmatter.get("category", "Uncategorized"),
+                        "thumbnail": frontmatter.get("thumbnail", ""),
+                        "source_link": frontmatter.get("source_link", ""),
+                        "filename": filename
+                    })
+                except Exception as e:
+                    print(f"Error processing frontmatter for {filename}: {e}")
+    
+    # Sort posts by date, newest first
+    posts.sort(key=lambda x: x["date"], reverse=True)
+
+    with open("docs/posts.json", "w", encoding="utf-8") as f:
+        json.dump(posts, f, indent=4)
+
 def main():
     if not os.path.exists("posts"): os.makedirs("posts")
+    if not os.path.exists("assets/images"): os.makedirs("assets/images")
     
     # Load history to save money/tokens
     history_file = "processed.log"
@@ -77,9 +139,22 @@ def main():
             
             if article_hash not in processed_hashes:
                 print(f"New Intel Found: {entry.title}")
+                
+                slug = slugify(entry.title)
+                image_path = ""
+                
+                # Attempt to find and download image
+                img_url = extract_image_url(entry)
+                if img_url:
+                    ext = os.path.splitext(img_url.split('?')[0])[1]
+                    if not ext or len(ext) > 5: ext = ".jpg"
+                    local_filename = f"{datetime.now().strftime('%Y-%m-%d')}-{slug}{ext}"
+                    if download_image(img_url, f"assets/images/{local_filename}"):
+                        image_path = f"assets/images/{local_filename}"
+
                 try:
-                    markdown_content = generate_bulletin(entry)
-                    filename = f"posts/{datetime.now().strftime('%Y%m%d')}-{article_hash[:8]}.md"
+                    markdown_content = generate_bulletin(entry, image_path)
+                    filename = f"posts/{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
                     
                     with open(filename, "w", encoding="utf-8") as f:
                         f.write(markdown_content)
@@ -99,6 +174,9 @@ def main():
         with open(history_file, "a") as f:
             for h in new_hashes:
                 f.write(h + "\n")
+    
+    # Generate the posts.json file
+    generate_posts_json()
 
     if success_count == 0 and error_count > 0:
         print(f"\nCRITICAL: Failed to process any of the {error_count} new articles. Please check your GEMINI_API_KEY and quota.")
