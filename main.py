@@ -42,7 +42,8 @@ def extract_image_url(entry):
 
 def download_image(url, save_path):
     try:
-        response = requests.get(url, stream=True, timeout=10)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+        response = requests.get(url, headers=headers, stream=True, timeout=10)
         if response.status_code == 200:
             with open(save_path, 'wb') as f:
                 f.write(response.content)
@@ -99,7 +100,7 @@ def generate_posts_json():
                     frontmatter = yaml.safe_load(frontmatter_str)
                     posts.append({
                         "title": frontmatter.get("title", "No Title"),
-                        "date": frontmatter.get("date", "No Date"),
+                        "date": str(frontmatter.get("date", "No Date")),
                         "category": frontmatter.get("category", "Uncategorized"),
                         "thumbnail": frontmatter.get("thumbnail", ""),
                         "source_link": frontmatter.get("source_link", ""),
@@ -110,6 +111,9 @@ def generate_posts_json():
     
     # Sort posts by date, newest first
     posts.sort(key=lambda x: x["date"], reverse=True)
+
+    if not os.path.exists("docs"):
+        os.makedirs("docs")
 
     with open("docs/posts.json", "w", encoding="utf-8") as f:
         json.dump(posts, f, indent=4)
@@ -177,6 +181,7 @@ def main():
     
     # Generate the posts.json file
     generate_posts_json()
+    print("✅ Process completed. docs/posts.json has been updated.")
 
     if success_count == 0 and error_count > 0:
         print(f"\nCRITICAL: Failed to process any of the {error_count} new articles. Please check your GEMINI_API_KEY and quota.")
