@@ -83,7 +83,7 @@ def generate_bulletin(entry, image_path=""):
                 "content": prompt
             }
         ],
-        model="llama-3.3-70b-versatile",
+        model="llama3-70b-8192",
     )
     
     return response.choices[0].message.content
@@ -181,7 +181,8 @@ def main():
     
     # Generate the posts.json file
     generate_posts_json()
-    print("✅ Process completed. docs/posts.json has been updated.")
+    abs_path = os.path.abspath("docs/posts.json")
+    print(f"✅ Process completed. Feed generated at: {abs_path}")
 
     if success_count == 0 and error_count > 0:
         print(f"\nCRITICAL: Failed to process any of the {error_count} new articles. Please check your GEMINI_API_KEY and quota.")

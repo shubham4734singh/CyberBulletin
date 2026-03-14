@@ -28,7 +28,19 @@ async function fetchPosts() {
         });
     } catch (error) {
         console.error(error);
-        container.innerHTML = "<p>Error loading feed. Make sure you have run the python script to generate the posts.json file.</p>";
+        
+        // Check if user is opening file directly (CORS error)
+        if (window.location.protocol === 'file:') {
+            container.innerHTML = `
+                <div style="color: #d32f2f; border: 1px solid #d32f2f; padding: 15px; border-radius: 5px; background: #ffebee;">
+                    <h3>⚠️ Local Access Blocked</h3>
+                    <p>Browsers block reading local files for security. You must run a local server:</p>
+                    <code>python -m http.server</code>
+                    <p>Then open: <a href="http://localhost:8000/docs/">http://localhost:8000/docs/</a></p>
+                </div>`;
+        } else {
+            container.innerHTML = `<p>Error loading feed: <strong>${error.message}</strong>.<br>Check if <code>docs/posts.json</code> exists.</p>`;
+        }
     }
 }
 
