@@ -3,26 +3,117 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>CyberBulletin | Intel Feed</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberBulletin | Automated Threat Intelligence</title>
+    
+    <!-- Modern Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
-    <!-- Include Marked.js -->
+    
+    <!-- Include Marked.js for Markdown parsing -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.5/dist/purify.min.js"></script> <!-- Sanitize markdown output -->
 </head>
 
 <body>
-    <div class="container">
-        <h1 onclick="showFeed()">CyberBulletin</h1>
-        <p>Automated Threat Intelligence</p>
+    <!-- Abstract Background Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    
+    <div class="app-layout">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="brand" onclick="showFeed()" role="button" tabindex="0">
+                <div class="brand-icon">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+                <div class="brand-text">
+                    <h1>CyberBulletin</h1>
+                    <span>Threat Intel Feed</span>
+                </div>
+            </div>
+            
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active" onclick="showFeed()" id="nav-feed">
+                    <i class="fa-solid fa-rss"></i> Live Feed
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="fa-solid fa-chart-network"></i> Analytics <span class="badge">Pro</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="fa-solid fa-gear"></i> Settings
+                </a>
+            </nav>
+            
+            <div class="system-status">
+                <div class="status-indicator"></div>
+                <span>System Online: 15 RPM</span>
+            </div>
+        </aside>
 
-        <div id="feed-container">Loading latest intelligence...</div>
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="top-nav">
+                <div class="search-bar">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" placeholder="Search intel reports, CVEs, malware...">
+                </div>
+                
+                <div class="user-profile">
+                    <div class="notification-bell">
+                        <i class="fa-regular fa-bell"></i>
+                        <span class="pulse"></span>
+                    </div>
+                    <div class="avatar">
+                        <i class="fa-solid fa-user-ninja"></i>
+                    </div>
+                </div>
+            </header>
 
-        <div id="post-view" style="display: none;">
-            <div class="back-btn" onclick="showFeed()">← Back to Feed</div>
-            <div id="post-content"></div>
-        </div>
+            <div class="content-wrapper">
+                <!-- Feed View -->
+                <div id="feed-view">
+                    <div class="page-header">
+                        <h2>Latest Intelligence</h2>
+                        <div class="filter-pills">
+                            <span class="pill active">All</span>
+                            <span class="pill">Malware</span>
+                            <span class="pill">Vulnerabilities</span>
+                            <span class="pill">Data Breach</span>
+                        </div>
+                    </div>
+
+                    <div id="feed-container" class="grid-layout">
+                        <!-- Skeletons while loading -->
+                        <div class="skeleton-card"></div>
+                        <div class="skeleton-card"></div>
+                        <div class="skeleton-card"></div>
+                    </div>
+                </div>
+
+                <!-- Post Detail View -->
+                <div id="post-view" style="display: none;">
+                    <div class="back-btn-container">
+                        <button class="btn-back" onclick="showFeed()">
+                            <i class="fa-solid fa-arrow-left"></i> Back to Feed
+                        </button>
+                    </div>
+                    
+                    <article id="post-content" class="markdown-body">
+                        <!-- Post content injected here -->
+                    </article>
+                </div>
+            </div>
+        </main>
     </div>
 
     <script src="script.js"></script>
 </body>
-
 </html>
