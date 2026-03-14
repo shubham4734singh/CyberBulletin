@@ -53,30 +53,35 @@ def download_image(url, save_path):
     return False
 
 def generate_bulletin(entry, image_path=""):
+    # Sanitize title for YAML frontmatter to avoid errors with quotes
+    sanitized_title = entry.title.replace('"', '\\"')
+
     prompt = f"""
-    Act as a Senior Cybersecurity Architect. Transform this into a technical blog post.
-    Title: {entry.title}
-    Link: {entry.link}
-    Description: {entry.description}
-    
-    Use the Markdown format:
-    ---
-    title: "{entry.title}"
-    date: {datetime.now().strftime('%Y-%m-%d')}
-    category: "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]"
-    thumbnail: "{image_path}"
-    source_link: "{entry.link}"
-    ---
-    ## ⚡ Quick Summary
-    ## 🛠 Technical Analysis
-    ## 🛡 Mitigation & Impact
+    Act as a Senior Cybersecurity Architect. Analyze the article summary below and generate a technical blog post in Markdown format.
+
+    **Article Information:**
+    - Title: {entry.title}
+    - Link: {entry.link}
+    - Summary from RSS: {entry.summary}
+
+    **Instructions for your output:**
+    1.  Create YAML frontmatter.
+    2.  The `title` key must be: "{sanitized_title}"
+    3.  The `date` key must be today's date: {datetime.now().strftime('%Y-%m-%d')}
+    4.  The `category` key should be a YAML list classifying the article into one or more of the following: `Malware`, `Vulnerabilities`, `Data Breach`, `Threat Intelligence`, `Legal`, `Industry News`. Example: `category: [Threat Intelligence, Malware]`
+    5.  The `thumbnail` key must be: "{image_path}"
+    6.  The `source_link` key must be: "{entry.link}"
+    7.  After the frontmatter, create three Markdown sections: `## ⚡ Quick Summary`, `## 🛠 Technical Analysis`, and `## 🛡 Mitigation & Impact`.
+    8.  Fill in these sections by expanding on the provided summary, providing insights from the perspective of a cybersecurity expert.
+
+    Begin your output directly with the `---` of the frontmatter. Do not include any other text or explanation before or after the markdown content.
     """
     
     response = client.chat.completions.create(
         messages=[
             {
                 "role": "system",
-                "content": "You are a Senior Cybersecurity Architect. Output only the requested Markdown."
+                "content": "You are a Senior Cybersecurity Architect creating technical blog posts. You follow instructions precisely and only output the requested Markdown content, starting with the YAML frontmatter."
             },
             {
                 "role": "user",
@@ -89,10 +94,13 @@ def generate_bulletin(entry, image_path=""):
     return response.choices[0].message.content
 
 def generate_posts_json():
+    POSTS_DIR = "docs/posts"
     posts = []
-    for filename in os.listdir("posts"):
+    if not os.path.exists(POSTS_DIR):
+        os.makedirs(POSTS_DIR)
+    for filename in os.listdir(POSTS_DIR):
         if filename.endswith(".md"):
-            with open(os.path.join("posts", filename), "r", encoding="utf-8") as f:
+            with open(os.path.join(POSTS_DIR, filename), "r", encoding="utf-8") as f:
                 content = f.read()
                 # Extract frontmatter
                 try:
@@ -119,8 +127,8 @@ def generate_posts_json():
         json.dump(posts, f, indent=4)
 
 def main():
-    if not os.path.exists("posts"): os.makedirs("posts")
-    if not os.path.exists("assets/images"): os.makedirs("assets/images")
+    if not os.path.exists("docs/posts"): os.makedirs("docs/posts")
+    if not os.path.exists("docs/assets/images"): os.makedirs("docs/assets/images")
     
     # Load history to save money/tokens
     history_file = "processed.log"
@@ -145,22 +153,24 @@ def main():
                 print(f"New Intel Found: {entry.title}")
                 
                 slug = slugify(entry.title)
-                image_path = ""
+                image_path_for_md = ""
                 
                 # Attempt to find and download image
                 img_url = extract_image_url(entry)
                 if img_url:
                     ext = os.path.splitext(img_url.split('?')[0])[1]
                     if not ext or len(ext) > 5: ext = ".jpg"
-                    local_filename = f"{datetime.now().strftime('%Y-%m-%d')}-{slug}{ext}"
-                    if download_image(img_url, f"assets/images/{local_filename}"):
-                        image_path = f"assets/images/{local_filename}"
+                    img_filename = f"{datetime.now().strftime('%Y-%m-%d')}-{slug}{ext}"
+                    save_path = os.path.join("docs/assets/images", img_filename)
+                    if download_image(img_url, save_path):
+                        image_path_for_md = f"assets/images/{img_filename}" # Relative path for website
 
                 try:
-                    markdown_content = generate_bulletin(entry, image_path)
-                    filename = f"posts/{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
+                    markdown_content = generate_bulletin(entry, image_path_for_md)
+                    md_filename = f"{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
+                    full_md_path = os.path.join("docs/posts", md_filename)
                     
-                    with open(filename, "w", encoding="utf-8") as f:
+                    with open(full_md_path, "w", encoding="utf-8") as f:
                         f.write(markdown_content)
                     
                     new_hashes.append(article_hash)

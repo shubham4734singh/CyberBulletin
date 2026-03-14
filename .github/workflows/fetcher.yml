@@ -48,7 +48,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Add the generated markdown posts and the execution log
-          git add posts/ processed.log docs/posts.json || true
+          git add docs/ processed.log || true
           
           # Check if there are any changes to commit
           if ! git diff-index --quiet HEAD; then

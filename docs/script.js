@@ -53,7 +53,7 @@ async function loadPost(filename) {
     contentDiv.style.display = 'block';
 
     try {
-        const response = await fetch(`../posts/${filename}`);
+        const response = await fetch(`posts/${filename}`);
         if (!response.ok) throw new Error("Failed to load post");
 
         let markdown = await response.text();
