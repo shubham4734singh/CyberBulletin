@@ -1,11 +1,100 @@
 [
     {
-        "title": "Warning: New Microsoft Teams Phishing Attack Drops A0Backdoor Malware",
+        "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-02-venom-stealer-maas-platform-commoditizes-clickfix-attacks.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
+        "filename": "2026-04-02-venom-stealer-maas-platform-commoditizes-clickfix-attacks.md"
+    },
+    {
+        "title": "Are We Training AI Too Late?",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-02-are-we-training-ai-too-late.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
+        "filename": "2026-04-02-are-we-training-ai-too-late.md"
+    },
+    {
+        "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut",
+        "date": "2026-04-02",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-02-latam-s-self-taught-cyber-talent-overlooked-amid-cyberattack-glut.jpg",
+        "source_link": "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut",
+        "filename": "2026-04-02-latam-s-self-taught-cyber-talent-overlooked-amid-cyberattack-glut.md"
+    },
+    {
+        "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+        "filename": "2026-04-02-new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md"
+    },
+    {
+        "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+        "filename": "2026-04-02-apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks.md"
+    },
+    {
+        "title": "Cyberattacks Intensify Pressure on Latin American Governments",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-02-cyberattacks-intensify-pressure-on-latin-american-governments.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
+        "filename": "2026-04-02-cyberattacks-intensify-pressure-on-latin-american-governments.md"
+    },
+    {
+        "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+        "filename": "2026-04-02-hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates.md"
+    },
+    {
+        "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+        "filename": "2026-04-02-new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md"
+    },
+    {
+        "title": "Are We Ready for Auto Remediation With Agentic AI?",
         "date": "2026-03-10",
-        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
-        "thumbnail": "assets/images/thumbnails/teams-phishing.jpg",
-        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
-        "filename": "20260310-0d86165b.md"
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/application-security/auto-remediation-agentic-ai",
+        "filename": "20260310-7816bd50.md"
     },
     {
         "title": "Ericsson US Hacked: Massive Data Breach Exposed via Third-Party",
@@ -24,20 +113,12 @@
         "filename": "20260310-2262ecbb.md"
     },
     {
-        "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
+        "title": "White House Cyber Strategy Prioritizes Offense",
         "date": "2026-03-10",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
-        "filename": "20260310-2996e226.md"
-    },
-    {
-        "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-        "date": "2026-03-10",
-        "category": "[Vulnerabilities]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-        "filename": "20260310-620d9a67.md"
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense",
+        "filename": "20260310-bc8f7f9f.md"
     },
     {
         "title": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws",
@@ -48,20 +129,12 @@
         "filename": "20260310-725454ec.md"
     },
     {
-        "title": "Are We Ready for Auto Remediation With Agentic AI?",
-        "date": "2026-03-10",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.darkreading.com/application-security/auto-remediation-agentic-ai",
-        "filename": "20260310-7816bd50.md"
-    },
-    {
-        "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
+        "title": "Google: Cloud attacks exploit flaws more than weak credentials",
         "date": "2026-03-10",
         "category": "[Vulnerabilities]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
-        "filename": "20260310-8322ce73.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
+        "filename": "20260310-f7b9e2e8.md"
     },
     {
         "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
@@ -72,12 +145,36 @@
         "filename": "20260310-9ed2c3a1.md"
     },
     {
-        "title": "White House Cyber Strategy Prioritizes Offense",
+        "title": "'BlackSanta' Malware Kills EDR: HR Workflows Under Siege",
+        "date": "2026-03-10",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "assets/images/thumbnails/blacksanta.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+        "filename": "20260310-fc794495.md"
+    },
+    {
+        "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
         "date": "2026-03-10",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense",
-        "filename": "20260310-bc8f7f9f.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
+        "filename": "20260310-2996e226.md"
+    },
+    {
+        "title": "Warning: New Microsoft Teams Phishing Attack Drops A0Backdoor Malware",
+        "date": "2026-03-10",
+        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
+        "thumbnail": "assets/images/thumbnails/teams-phishing.jpg",
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
+        "filename": "20260310-0d86165b.md"
+    },
+    {
+        "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
+        "date": "2026-03-10",
+        "category": "[Vulnerabilities]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
+        "filename": "20260310-8322ce73.md"
     },
     {
         "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
@@ -88,52 +185,12 @@
         "filename": "20260310-eebc263d.md"
     },
     {
-        "title": "Google: Cloud attacks exploit flaws more than weak credentials",
+        "title": "Microsoft releases Windows 10 KB5078885 extended security update",
         "date": "2026-03-10",
         "category": "[Vulnerabilities]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
-        "filename": "20260310-f7b9e2e8.md"
-    },
-    {
-        "title": "'BlackSanta' Malware Kills EDR: HR Workflows Under Siege",
-        "date": "2026-03-10",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "assets/images/thumbnails/blacksanta.jpg",
-        "source_link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
-        "filename": "20260310-fc794495.md"
-    },
-    {
-        "title": "Microsoft Teams will tag third-party bots trying to join meetings",
-        "date": "2026-03-09",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
-        "filename": "20260309-0c627d7f.md"
-    },
-    {
-        "title": "FBI warns of phishing attacks impersonating US city, county officials",
-        "date": "2026-03-09",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
-        "filename": "20260309-107aba63.md"
-    },
-    {
-        "title": "Microsoft still working to fix Windows Explorer white flashes",
-        "date": "2026-03-09",
-        "category": "[Vulnerabilities]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
-        "filename": "20260309-24f5f73c.md"
-    },
-    {
-        "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
-        "date": "2026-03-09",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
-        "filename": "20260309-33db9371.md"
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
+        "filename": "20260310-620d9a67.md"
     },
     {
         "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
@@ -144,6 +201,30 @@
         "filename": "20260309-4dc2f078.md"
     },
     {
+        "title": "Microsoft Teams will tag third-party bots trying to join meetings",
+        "date": "2026-03-09",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
+        "filename": "20260309-0c627d7f.md"
+    },
+    {
+        "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
+        "date": "2026-03-09",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
+        "filename": "20260309-33db9371.md"
+    },
+    {
+        "title": "FBI warns of phishing attacks impersonating US city, county officials",
+        "date": "2026-03-09",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
+        "filename": "20260309-107aba63.md"
+    },
+    {
         "title": "ShinyHunters Leak: Ongoing Salesforce Aura Data Theft Revealed",
         "date": "2026-03-09",
         "category": "Uncategorized",
@@ -152,12 +233,12 @@
         "filename": "20260309-66829c2f.md"
     },
     {
-        "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
-        "date": "2026-03-08",
-        "category": "[Threat Intelligence]",
+        "title": "Microsoft still working to fix Windows Explorer white flashes",
+        "date": "2026-03-09",
+        "category": "[Vulnerabilities]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
-        "filename": "20260308-2c8bf042.md"
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
+        "filename": "20260309-24f5f73c.md"
     },
     {
         "title": "Cylake Offers AI-Native Security Without Relying on Cloud Services",
@@ -168,36 +249,20 @@
         "filename": "20260308-6d108bda.md"
     },
     {
+        "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
+        "date": "2026-03-08",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
+        "filename": "20260308-2c8bf042.md"
+    },
+    {
         "title": "EU court adviser says banks must immediately refund phishing victims",
         "date": "2026-03-08",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
         "filename": "20260308-df4599f4.md"
-    },
-    {
-        "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
-        "date": "2026-03-07",
-        "category": "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
-        "filename": "20260307-04df7ee0.md"
-    },
-    {
-        "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-        "date": "2026-03-07",
-        "category": "Threat Intelligence",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-        "filename": "20260307-14d65f17.md"
-    },
-    {
-        "title": "Nation-State Actor Embraces AI Malware Assembly Line",
-        "date": "2026-03-07",
-        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
-        "filename": "20260307-24cbfe4b.md"
     },
     {
         "title": "Cyberattack on Mexico's Gov't Agencies Highlight AI Threat",
@@ -208,12 +273,12 @@
         "filename": "20260307-384c377a.md"
     },
     {
-        "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
+        "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
         "date": "2026-03-07",
-        "category": "[Data Breach]",
+        "category": "[Data Breach/Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
-        "filename": "20260307-4b278f5b.md"
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
+        "filename": "20260307-fd13d521.md"
     },
     {
         "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
@@ -224,28 +289,20 @@
         "filename": "20260307-a1a5c86d.md"
     },
     {
-        "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
+        "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
         "date": "2026-03-07",
-        "category": "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]",
+        "category": "Threat Intelligence",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
-        "filename": "20260307-cab8f624.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
+        "filename": "20260307-14d65f17.md"
     },
     {
-        "title": "EU Auto Rules Shift Gears on Cybersecurity Standards",
+        "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
         "date": "2026-03-07",
-        "category": "[Threat Intelligence]",
+        "category": "[Data Breach]",
         "thumbnail": "",
-        "source_link": "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards",
-        "filename": "20260307-cf13a49c.md"
-    },
-    {
-        "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
-        "date": "2026-03-07",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
-        "filename": "20260307-ddabee43.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
+        "filename": "20260307-4b278f5b.md"
     },
     {
         "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape",
@@ -256,6 +313,14 @@
         "filename": "20260307-ecbd0f3b.md"
     },
     {
+        "title": "EU Auto Rules Shift Gears on Cybersecurity Standards",
+        "date": "2026-03-07",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards",
+        "filename": "20260307-cf13a49c.md"
+    },
+    {
         "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
         "date": "2026-03-07",
         "category": "[Threat Intelligence]",
@@ -264,11 +329,35 @@
         "filename": "20260307-fa946a4e.md"
     },
     {
-        "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
+        "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
         "date": "2026-03-07",
-        "category": "[Data Breach/Threat Intelligence]",
+        "category": "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
-        "filename": "20260307-fd13d521.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
+        "filename": "20260307-04df7ee0.md"
+    },
+    {
+        "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
+        "date": "2026-03-07",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
+        "filename": "20260307-ddabee43.md"
+    },
+    {
+        "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
+        "date": "2026-03-07",
+        "category": "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
+        "filename": "20260307-cab8f624.md"
+    },
+    {
+        "title": "Nation-State Actor Embraces AI Malware Assembly Line",
+        "date": "2026-03-07",
+        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
+        "filename": "20260307-24cbfe4b.md"
     }
 ]
