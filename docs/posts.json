@@ -1,5 +1,16 @@
 [
     {
+        "title": "Microsoft still working to fix Exchange Online mailbox access issues",
+        "date": "2026-04-03",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+        "filename": "2026-04-03-microsoft-still-working-to-fix-exchange-online-mailbox-access-issues.md"
+    },
+    {
         "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
         "date": "2026-04-03",
         "category": [
@@ -9,6 +20,17 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
         "filename": "2026-04-03-drift-loses-280-million-north-korean-hackers-seize-security-council-powers.md"
+    },
+    {
+        "title": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain",
+        "date": "2026-04-03",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-03-chainguard-unveils-factory-2-0-to-automate-hardening-the-software-supply-chain.jpg",
+        "source_link": "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain",
+        "filename": "2026-04-03-chainguard-unveils-factory-2-0-to-automate-hardening-the-software-supply-chain.md"
     },
     {
         "title": "Security Bosses Are All-In on AI. Here's Why",
@@ -22,6 +44,29 @@
         "filename": "2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.md"
     },
     {
+        "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
+        "filename": "2026-04-03-evolution-of-ransomware-multi-extortion-ransomware-attacks.md"
+    },
+    {
+        "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-04-03-blast-radius-of-teampcp-attacks-expands-amid-hacker-infighting.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting",
+        "filename": "2026-04-03-blast-radius-of-teampcp-attacks-expands-amid-hacker-infighting.md"
+    },
+    {
         "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
         "date": "2026-04-03",
         "category": [
@@ -31,6 +76,52 @@
         "thumbnail": "assets/images/2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.jpg",
         "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
         "filename": "2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.md"
+    },
+    {
+        "title": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-03-picking-up-skull-vibrations-could-be-xr-headset-authentication.jpg",
+        "source_link": "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication",
+        "filename": "2026-04-03-picking-up-skull-vibrations-could-be-xr-headset-authentication.md"
+    },
+    {
+        "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-03-apple-breaks-precedent-patches-darksword-for-ios-18.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
+        "filename": "2026-04-03-apple-breaks-precedent-patches-darksword-for-ios-18.md"
+    },
+    {
+        "title": "Claude Source Code Leak Highlights Big Supply Chain Missteps",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-03-claude-source-code-leak-highlights-big-supply-chain-missteps.jpg",
+        "source_link": "https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight",
+        "filename": "2026-04-03-claude-source-code-leak-highlights-big-supply-chain-missteps.md"
+    },
+    {
+        "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+        "filename": "2026-04-03-die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware.md"
     },
     {
         "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
