@@ -1,5 +1,38 @@
 [
     {
+        "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
+        "filename": "2026-04-03-drift-loses-280-million-north-korean-hackers-seize-security-council-powers.md"
+    },
+    {
+        "title": "Security Bosses Are All-In on AI. Here's Why",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
+        "filename": "2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.md"
+    },
+    {
+        "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
+        "date": "2026-04-03",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
+        "filename": "2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.md"
+    },
+    {
         "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
         "date": "2026-04-02",
         "category": [
