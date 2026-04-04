@@ -1,5 +1,16 @@
 [
     {
+        "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
+        "date": "2026-04-04",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
+        "filename": "2026-04-04-linkedin-secretly-scans-for-6-000-chrome-extensions-collects-data.md"
+    },
+    {
         "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
         "date": "2026-04-04",
         "category": [
@@ -9,6 +20,17 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
         "filename": "2026-04-04-linkedin-secretely-scans-for-6-000-chrome-extensions-collects-data.md"
+    },
+    {
+        "title": "Device code phishing attacks surge 37x as new kits spread online",
+        "date": "2026-04-04",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
+        "filename": "2026-04-04-device-code-phishing-attacks-surge-37x-as-new-kits-spread-online.md"
     },
     {
         "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
