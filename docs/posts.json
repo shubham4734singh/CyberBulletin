@@ -1,5 +1,27 @@
 [
     {
+        "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
+        "date": "2026-04-04",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+        "filename": "2026-04-04-linkedin-secretely-scans-for-6-000-chrome-extensions-collects-data.md"
+    },
+    {
+        "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
+        "date": "2026-04-04",
+        "category": [
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-04-inconsistent-privacy-labels-don-t-tell-users-what-they-are-getting.jpg",
+        "source_link": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
+        "filename": "2026-04-04-inconsistent-privacy-labels-don-t-tell-users-what-they-are-getting.md"
+    },
+    {
         "title": "Microsoft still working to fix Exchange Online mailbox access issues",
         "date": "2026-04-03",
         "category": [
