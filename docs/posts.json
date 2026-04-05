@@ -1,5 +1,16 @@
 [
     {
+        "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+        "date": "2026-04-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+        "filename": "2026-04-05-axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account.md"
+    },
+    {
         "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
         "date": "2026-04-04",
         "category": [
