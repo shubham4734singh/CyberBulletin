@@ -1,5 +1,30 @@
 [
     {
+        "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-04-06-automated-credential-harvesting-campaign-exploits-react2shell-flaw.png",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
+        "filename": "2026-04-06-automated-credential-harvesting-campaign-exploits-react2shell-flaw.md"
+    },
+    {
+        "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
+        "date": "2026-04-06",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
+        "filename": "2026-04-06-cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md"
+    },
+    {
         "title": "Traffic violation scams switch to QR codes in new phishing texts",
         "date": "2026-04-06",
         "category": [
@@ -9,6 +34,72 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
         "filename": "2026-04-06-traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts.md"
+    },
+    {
+        "title": "Drift $280M crypto theft linked to 6-month in-person operation",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
+        "filename": "2026-04-06-drift-280m-crypto-theft-linked-to-6-month-in-person-operation.md"
+    },
+    {
+        "title": "Why Simple Breach Monitoring is No Longer Enough",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
+        "filename": "2026-04-06-why-simple-breach-monitoring-is-no-longer-enough.md"
+    },
+    {
+        "title": "Microsoft removes Support and Recovery Assistant from Windows",
+        "date": "2026-04-06",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
+        "filename": "2026-04-06-microsoft-removes-support-and-recovery-assistant-from-windows.md"
+    },
+    {
+        "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
+        "filename": "2026-04-06-microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks.md"
+    },
+    {
+        "title": "Shadow AI in Healthcare Is Here to Stay",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-06-shadow-ai-in-healthcare-is-here-to-stay.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
+        "filename": "2026-04-06-shadow-ai-in-healthcare-is-here-to-stay.md"
+    },
+    {
+        "title": "OWASP GenAI Security Project Gets Update, New Tools Matrix",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-06-owasp-genai-security-project-gets-update-new-tools-matrix.jpg",
+        "source_link": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
+        "filename": "2026-04-06-owasp-genai-security-project-gets-update-new-tools-matrix.md"
     },
     {
         "title": "Hackers exploit React2Shell in automated credential theft campaign",
