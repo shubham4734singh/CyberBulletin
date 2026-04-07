@@ -1,5 +1,61 @@
 [
     {
+        "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
+        "date": "2026-04-07",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-07-focusing-on-the-people-in-cybersecurity-at-rsac-2026-conference.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
+        "filename": "2026-04-07-focusing-on-the-people-in-cybersecurity-at-rsac-2026-conference.md"
+    },
+    {
+        "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+        "date": "2026-04-07",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+        "filename": "2026-04-07-max-severity-flowise-rce-vulnerability-now-exploited-in-attacks.md"
+    },
+    {
+        "title": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-07-human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
+        "filename": "2026-04-07-human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends.md"
+    },
+    {
+        "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+        "filename": "2026-04-07-authorities-disrupt-router-dns-hijacks-used-to-steal-microsoft-365-logins.md"
+    },
+    {
+        "title": "US warns of Iranian hackers targeting critical infrastructure",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+        "filename": "2026-04-07-us-warns-of-iranian-hackers-targeting-critical-infrastructure.md"
+    },
+    {
         "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
         "date": "2026-04-07",
         "category": [
@@ -31,6 +87,28 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
         "filename": "2026-04-07-microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues.md"
+    },
+    {
+        "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+        "filename": "2026-04-07-why-your-automated-pentesting-tool-just-hit-a-wall.md"
+    },
+    {
+        "title": "Lies, Damned Lies, and Cybersecurity Metrics",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-07-lies-damned-lies-and-cybersecurity-metrics.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
+        "filename": "2026-04-07-lies-damned-lies-and-cybersecurity-metrics.md"
     },
     {
         "title": "Axios Attack Shows Social Complex Engineering Is Industrialized",
