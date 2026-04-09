@@ -1,25 +1,14 @@
 [
     {
-        "title": "Microsoft suspends dev accounts for high-profile open source projects",
+        "title": "When attackers already have the keys, MFA is just another door to open",
         "date": "2026-04-09",
         "category": [
-            "Industry News",
-            "Threat Intelligence"
+            "Threat Intelligence",
+            "Malware"
         ],
         "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-        "filename": "2026-04-09-microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md"
-    },
-    {
-        "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
-        "date": "2026-04-09",
-        "category": [
-            "Data Breach",
-            "Threat Intelligence"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
-        "filename": "2026-04-09-hackers-steal-3-6-million-from-crypto-atm-giant-bitcoin-depot.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
+        "filename": "2026-04-09-when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open.md"
     },
     {
         "title": "Threat Actors Get Crafty With Emojis to Escape Detection",
@@ -33,6 +22,17 @@
         "filename": "2026-04-09-threat-actors-get-crafty-with-emojis-to-escape-detection.md"
     },
     {
+        "title": "Google Chrome adds infostealer protection against session cookie theft",
+        "date": "2026-04-09",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
+        "filename": "2026-04-09-google-chrome-adds-infostealer-protection-against-session-cookie-theft.md"
+    },
+    {
         "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
         "date": "2026-04-09",
         "category": [
@@ -44,16 +44,71 @@
         "filename": "2026-04-09-hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer.md"
     },
     {
-        "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
-        "date": "2026-04-08",
+        "title": "Microsoft suspends dev accounts for high-profile open source projects",
+        "date": "2026-04-09",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+        "filename": "2026-04-09-microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md"
+    },
+    {
+        "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
+        "date": "2026-04-09",
         "category": [
             "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
+        "filename": "2026-04-09-smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions.md"
+    },
+    {
+        "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
+        "date": "2026-04-09",
+        "category": [
             "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
+        "filename": "2026-04-09-hackers-steal-3-6-million-from-crypto-atm-giant-bitcoin-depot.md"
+    },
+    {
+        "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not",
+        "date": "2026-04-09",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-09-do-ceasefires-slow-cyberattacks-history-suggests-not.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history",
+        "filename": "2026-04-09-do-ceasefires-slow-cyberattacks-history-suggests-not.md"
+    },
+    {
+        "title": "Eurail says December data breach impacts 300,000 individuals",
+        "date": "2026-04-09",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
             "Industry News"
         ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
-        "filename": "2026-04-08-fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
+        "filename": "2026-04-09-eurail-says-december-data-breach-impacts-300-000-individuals.md"
+    },
+    {
+        "title": "Webinar: From noise to signal - What threat actors are targeting next",
+        "date": "2026-04-09",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
+        "filename": "2026-04-09-webinar-from-noise-to-signal-what-threat-actors-are-targeting-next.md"
     },
     {
         "title": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs",
@@ -67,36 +122,26 @@
         "filename": "2026-04-08-iranian-threat-actors-disrupt-us-critical-infrastructure-via-exposed-plcs.md"
     },
     {
-        "title": "Is a $30,000 GPU Good at Password Cracking?",
-        "date": "2026-04-08",
-        "category": [
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
-        "filename": "2026-04-08-is-a-30-000-gpu-good-at-password-cracking.md"
-    },
-    {
-        "title": "Grafana Patches AI Bug That Could Have Leaked User Data",
+        "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
         "date": "2026-04-08",
         "category": [
             "Vulnerabilities",
             "Threat Intelligence"
         ],
-        "thumbnail": "assets/images/2026-04-08-grafana-patches-ai-bug-that-could-have-leaked-user-data.jpg",
-        "source_link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
-        "filename": "2026-04-08-grafana-patches-ai-bug-that-could-have-leaked-user-data.md"
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
+        "filename": "2026-04-08-hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin.md"
     },
     {
-        "title": "Microsoft rolls out fix for broken Windows Start Menu search",
+        "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
         "date": "2026-04-08",
         "category": [
-            "Industry News"
+            "Vulnerabilities",
+            "Threat Intelligence"
         ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
-        "filename": "2026-04-08-microsoft-rolls-out-fix-for-broken-windows-start-menu-search.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
+        "filename": "2026-04-08-13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands.md"
     },
     {
         "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
@@ -111,26 +156,25 @@
         "filename": "2026-04-08-cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday.md"
     },
     {
-        "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
+        "title": "Is a $30,000 GPU Good at Password Cracking?",
         "date": "2026-04-08",
         "category": [
-            "Vulnerabilities",
-            "Threat Intelligence"
+            "Threat Intelligence",
+            "Industry News"
         ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
-        "filename": "2026-04-08-13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands.md"
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
+        "filename": "2026-04-08-is-a-30-000-gpu-good-at-password-cracking.md"
     },
     {
-        "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
+        "title": "Microsoft rolls out fix for broken Windows Start Menu search",
         "date": "2026-04-08",
         "category": [
-            "Vulnerabilities",
-            "Threat Intelligence"
+            "Industry News"
         ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-        "filename": "2026-04-08-hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin.md"
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+        "filename": "2026-04-08-microsoft-rolls-out-fix-for-broken-windows-start-menu-search.md"
     },
     {
         "title": "Fraud Rockets Higher in Mobile-First Latin America",
@@ -144,15 +188,49 @@
         "filename": "2026-04-08-fraud-rockets-higher-in-mobile-first-latin-america.md"
     },
     {
-        "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
-        "date": "2026-04-07",
+        "title": "Grafana Patches AI Bug That Could Have Leaked User Data",
+        "date": "2026-04-08",
         "category": [
-            "Industry News",
+            "Vulnerabilities",
             "Threat Intelligence"
         ],
-        "thumbnail": "assets/images/2026-04-07-focusing-on-the-people-in-cybersecurity-at-rsac-2026-conference.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
-        "filename": "2026-04-07-focusing-on-the-people-in-cybersecurity-at-rsac-2026-conference.md"
+        "thumbnail": "assets/images/2026-04-08-grafana-patches-ai-bug-that-could-have-leaked-user-data.jpg",
+        "source_link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
+        "filename": "2026-04-08-grafana-patches-ai-bug-that-could-have-leaked-user-data.md"
+    },
+    {
+        "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
+        "date": "2026-04-08",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+        "filename": "2026-04-08-fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year.md"
+    },
+    {
+        "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
+        "date": "2026-04-07",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-07-fortinet-issues-emergency-patch-for-forticlient-zero-day.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
+        "filename": "2026-04-07-fortinet-issues-emergency-patch-for-forticlient-zero-day.md"
+    },
+    {
+        "title": "German authorities identify REvil and GandCrab ransomware bosses",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+        "filename": "2026-04-07-german-authorities-identify-revil-and-gandcrab-ransomware-bosses.md"
     },
     {
         "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
@@ -166,15 +244,15 @@
         "filename": "2026-04-07-max-severity-flowise-rce-vulnerability-now-exploited-in-attacks.md"
     },
     {
-        "title": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends",
+        "title": "Lies, Damned Lies, and Cybersecurity Metrics",
         "date": "2026-04-07",
         "category": [
             "Threat Intelligence",
             "Industry News"
         ],
-        "thumbnail": "assets/images/2026-04-07-human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
-        "filename": "2026-04-07-human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends.md"
+        "thumbnail": "assets/images/2026-04-07-lies-damned-lies-and-cybersecurity-metrics.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
+        "filename": "2026-04-07-lies-damned-lies-and-cybersecurity-metrics.md"
     },
     {
         "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
@@ -200,70 +278,15 @@
         "filename": "2026-04-07-us-warns-of-iranian-hackers-targeting-critical-infrastructure.md"
     },
     {
-        "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
+        "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
         "date": "2026-04-07",
         "category": [
-            "Threat Intelligence",
-            "Vulnerabilities"
+            "Industry News",
+            "Threat Intelligence"
         ],
-        "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-        "filename": "2026-04-07-new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer.md"
-    },
-    {
-        "title": "German authorities identify REvil and GandCrab ransomware bosses",
-        "date": "2026-04-07",
-        "category": [
-            "Threat Intelligence",
-            "Malware"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
-        "filename": "2026-04-07-german-authorities-identify-revil-and-gandcrab-ransomware-bosses.md"
-    },
-    {
-        "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-        "date": "2026-04-07",
-        "category": [
-            "Vulnerabilities",
-            "Industry News"
-        ],
-        "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-        "filename": "2026-04-07-microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues.md"
-    },
-    {
-        "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
-        "date": "2026-04-07",
-        "category": [
-            "Threat Intelligence",
-            "Vulnerabilities"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
-        "filename": "2026-04-07-why-your-automated-pentesting-tool-just-hit-a-wall.md"
-    },
-    {
-        "title": "Lies, Damned Lies, and Cybersecurity Metrics",
-        "date": "2026-04-07",
-        "category": [
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": "assets/images/2026-04-07-lies-damned-lies-and-cybersecurity-metrics.jpg",
-        "source_link": "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
-        "filename": "2026-04-07-lies-damned-lies-and-cybersecurity-metrics.md"
-    },
-    {
-        "title": "Axios Attack Shows Social Complex Engineering Is Industrialized",
-        "date": "2026-04-07",
-        "category": [
-            "Threat Intelligence",
-            "Malware"
-        ],
-        "thumbnail": "assets/images/2026-04-07-axios-attack-shows-social-complex-engineering-is-industrialized.jpg",
-        "source_link": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
-        "filename": "2026-04-07-axios-attack-shows-social-complex-engineering-is-industrialized.md"
+        "thumbnail": "assets/images/2026-04-07-focusing-on-the-people-in-cybersecurity-at-rsac-2026-conference.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
+        "filename": "2026-04-07-focusing-on-the-people-in-cybersecurity-at-rsac-2026-conference.md"
     },
     {
         "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
@@ -277,15 +300,69 @@
         "filename": "2026-04-07-disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit.md"
     },
     {
-        "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
+        "title": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-07-human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
+        "filename": "2026-04-07-human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends.md"
+    },
+    {
+        "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+        "filename": "2026-04-07-why-your-automated-pentesting-tool-just-hit-a-wall.md"
+    },
+    {
+        "title": "Axios Attack Shows Social Complex Engineering Is Industrialized",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-07-axios-attack-shows-social-complex-engineering-is-industrialized.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
+        "filename": "2026-04-07-axios-attack-shows-social-complex-engineering-is-industrialized.md"
+    },
+    {
+        "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
         "date": "2026-04-07",
         "category": [
             "Vulnerabilities",
-            "Threat Intelligence"
+            "Industry News"
         ],
-        "thumbnail": "assets/images/2026-04-07-fortinet-issues-emergency-patch-for-forticlient-zero-day.jpg",
-        "source_link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
-        "filename": "2026-04-07-fortinet-issues-emergency-patch-for-forticlient-zero-day.md"
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
+        "filename": "2026-04-07-microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues.md"
+    },
+    {
+        "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
+        "date": "2026-04-07",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+        "filename": "2026-04-07-new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer.md"
+    },
+    {
+        "title": "Microsoft removes Support and Recovery Assistant from Windows",
+        "date": "2026-04-06",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
+        "filename": "2026-04-06-microsoft-removes-support-and-recovery-assistant-from-windows.md"
     },
     {
         "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
@@ -301,18 +378,6 @@
         "filename": "2026-04-06-automated-credential-harvesting-campaign-exploits-react2shell-flaw.md"
     },
     {
-        "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
-        "date": "2026-04-06",
-        "category": [
-            "Vulnerabilities",
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-        "filename": "2026-04-06-cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md"
-    },
-    {
         "title": "Traffic violation scams switch to QR codes in new phishing texts",
         "date": "2026-04-06",
         "category": [
@@ -322,17 +387,6 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
         "filename": "2026-04-06-traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts.md"
-    },
-    {
-        "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-        "date": "2026-04-06",
-        "category": [
-            "Threat Intelligence",
-            "Data Breach"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-        "filename": "2026-04-06-drift-280m-crypto-theft-linked-to-6-month-in-person-operation.md"
     },
     {
         "title": "Why Simple Breach Monitoring is No Longer Enough",
@@ -347,14 +401,37 @@
         "filename": "2026-04-06-why-simple-breach-monitoring-is-no-longer-enough.md"
     },
     {
-        "title": "Microsoft removes Support and Recovery Assistant from Windows",
+        "title": "Shadow AI in Healthcare Is Here to Stay",
         "date": "2026-04-06",
         "category": [
+            "Threat Intelligence",
             "Industry News"
         ],
+        "thumbnail": "assets/images/2026-04-06-shadow-ai-in-healthcare-is-here-to-stay.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
+        "filename": "2026-04-06-shadow-ai-in-healthcare-is-here-to-stay.md"
+    },
+    {
+        "title": "Drift $280M crypto theft linked to 6-month in-person operation",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-        "filename": "2026-04-06-microsoft-removes-support-and-recovery-assistant-from-windows.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
+        "filename": "2026-04-06-drift-280m-crypto-theft-linked-to-6-month-in-person-operation.md"
+    },
+    {
+        "title": "OWASP GenAI Security Project Gets Update, New Tools Matrix",
+        "date": "2026-04-06",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-06-owasp-genai-security-project-gets-update-new-tools-matrix.jpg",
+        "source_link": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
+        "filename": "2026-04-06-owasp-genai-security-project-gets-update-new-tools-matrix.md"
     },
     {
         "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
@@ -368,26 +445,16 @@
         "filename": "2026-04-06-microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks.md"
     },
     {
-        "title": "Shadow AI in Healthcare Is Here to Stay",
+        "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
         "date": "2026-04-06",
         "category": [
+            "Vulnerabilities",
             "Threat Intelligence",
             "Industry News"
         ],
-        "thumbnail": "assets/images/2026-04-06-shadow-ai-in-healthcare-is-here-to-stay.jpg",
-        "source_link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
-        "filename": "2026-04-06-shadow-ai-in-healthcare-is-here-to-stay.md"
-    },
-    {
-        "title": "OWASP GenAI Security Project Gets Update, New Tools Matrix",
-        "date": "2026-04-06",
-        "category": [
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": "assets/images/2026-04-06-owasp-genai-security-project-gets-update-new-tools-matrix.jpg",
-        "source_link": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
-        "filename": "2026-04-06-owasp-genai-security-project-gets-update-new-tools-matrix.md"
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
+        "filename": "2026-04-06-cisa-orders-feds-to-patch-exploited-fortinet-ems-flaw-by-friday.md"
     },
     {
         "title": "Hackers exploit React2Shell in automated credential theft campaign",
@@ -402,17 +469,6 @@
         "filename": "2026-04-05-hackers-exploit-react2shell-in-automated-credential-theft-campaign.md"
     },
     {
-        "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-        "date": "2026-04-05",
-        "category": [
-            "Threat Intelligence",
-            "Malware"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-        "filename": "2026-04-05-axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account.md"
-    },
-    {
         "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
         "date": "2026-04-05",
         "category": [
@@ -422,6 +478,17 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
         "filename": "2026-04-05-new-forticlient-ems-flaw-exploited-in-attacks-emergency-patch-released.md"
+    },
+    {
+        "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+        "date": "2026-04-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+        "filename": "2026-04-05-axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account.md"
     },
     {
         "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
@@ -435,15 +502,15 @@
         "filename": "2026-04-04-linkedin-secretly-scans-for-6-000-chrome-extensions-collects-data.md"
     },
     {
-        "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
+        "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
         "date": "2026-04-04",
         "category": [
-            "Threat Intelligence",
-            "Data Breach"
+            "Legal",
+            "Industry News"
         ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
-        "filename": "2026-04-04-linkedin-secretely-scans-for-6-000-chrome-extensions-collects-data.md"
+        "thumbnail": "assets/images/2026-04-04-inconsistent-privacy-labels-don-t-tell-users-what-they-are-getting.jpg",
+        "source_link": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
+        "filename": "2026-04-04-inconsistent-privacy-labels-don-t-tell-users-what-they-are-getting.md"
     },
     {
         "title": "Device code phishing attacks surge 37x as new kits spread online",
@@ -457,115 +524,15 @@
         "filename": "2026-04-04-device-code-phishing-attacks-surge-37x-as-new-kits-spread-online.md"
     },
     {
-        "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
+        "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
         "date": "2026-04-04",
         "category": [
-            "Legal",
-            "Industry News"
-        ],
-        "thumbnail": "assets/images/2026-04-04-inconsistent-privacy-labels-don-t-tell-users-what-they-are-getting.jpg",
-        "source_link": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
-        "filename": "2026-04-04-inconsistent-privacy-labels-don-t-tell-users-what-they-are-getting.md"
-    },
-    {
-        "title": "Microsoft still working to fix Exchange Online mailbox access issues",
-        "date": "2026-04-03",
-        "category": [
-            "Industry News",
-            "Vulnerabilities"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
-        "filename": "2026-04-03-microsoft-still-working-to-fix-exchange-online-mailbox-access-issues.md"
-    },
-    {
-        "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
-        "date": "2026-04-03",
-        "category": [
             "Threat Intelligence",
             "Data Breach"
         ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-        "filename": "2026-04-03-drift-loses-280-million-north-korean-hackers-seize-security-council-powers.md"
-    },
-    {
-        "title": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain",
-        "date": "2026-04-03",
-        "category": [
-            "Industry News",
-            "Threat Intelligence"
-        ],
-        "thumbnail": "assets/images/2026-04-03-chainguard-unveils-factory-2-0-to-automate-hardening-the-software-supply-chain.jpg",
-        "source_link": "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain",
-        "filename": "2026-04-03-chainguard-unveils-factory-2-0-to-automate-hardening-the-software-supply-chain.md"
-    },
-    {
-        "title": "Security Bosses Are All-In on AI. Here's Why",
-        "date": "2026-04-03",
-        "category": [
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": "assets/images/2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
-        "filename": "2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.md"
-    },
-    {
-        "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
-        "date": "2026-04-03",
-        "category": [
-            "Threat Intelligence",
-            "Malware",
-            "Data Breach"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
-        "filename": "2026-04-03-evolution-of-ransomware-multi-extortion-ransomware-attacks.md"
-    },
-    {
-        "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting",
-        "date": "2026-04-03",
-        "category": [
-            "Threat Intelligence",
-            "Data Breach"
-        ],
-        "thumbnail": "assets/images/2026-04-03-blast-radius-of-teampcp-attacks-expands-amid-hacker-infighting.jpg",
-        "source_link": "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting",
-        "filename": "2026-04-03-blast-radius-of-teampcp-attacks-expands-amid-hacker-infighting.md"
-    },
-    {
-        "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
-        "date": "2026-04-03",
-        "category": [
-            "Data Breach",
-            "Threat Intelligence"
-        ],
-        "thumbnail": "assets/images/2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.jpg",
-        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
-        "filename": "2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.md"
-    },
-    {
-        "title": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication",
-        "date": "2026-04-03",
-        "category": [
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": "assets/images/2026-04-03-picking-up-skull-vibrations-could-be-xr-headset-authentication.jpg",
-        "source_link": "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication",
-        "filename": "2026-04-03-picking-up-skull-vibrations-could-be-xr-headset-authentication.md"
-    },
-    {
-        "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
-        "date": "2026-04-03",
-        "category": [
-            "Threat Intelligence",
-            "Malware"
-        ],
-        "thumbnail": "assets/images/2026-04-03-apple-breaks-precedent-patches-darksword-for-ios-18.jpg",
-        "source_link": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
-        "filename": "2026-04-03-apple-breaks-precedent-patches-darksword-for-ios-18.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+        "filename": "2026-04-04-linkedin-secretely-scans-for-6-000-chrome-extensions-collects-data.md"
     },
     {
         "title": "Claude Source Code Leak Highlights Big Supply Chain Missteps",
@@ -580,6 +547,17 @@
         "filename": "2026-04-03-claude-source-code-leak-highlights-big-supply-chain-missteps.md"
     },
     {
+        "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
+        "date": "2026-04-03",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
+        "filename": "2026-04-03-drift-loses-280-million-north-korean-hackers-seize-security-council-powers.md"
+    },
+    {
         "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
         "date": "2026-04-03",
         "category": [
@@ -592,81 +570,93 @@
         "filename": "2026-04-03-die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware.md"
     },
     {
-        "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
-        "date": "2026-04-02",
+        "title": "Microsoft still working to fix Exchange Online mailbox access issues",
+        "date": "2026-04-03",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+        "filename": "2026-04-03-microsoft-still-working-to-fix-exchange-online-mailbox-access-issues.md"
+    },
+    {
+        "title": "Security Bosses Are All-In on AI. Here's Why",
+        "date": "2026-04-03",
         "category": [
             "Threat Intelligence",
             "Industry News"
         ],
-        "thumbnail": "assets/images/2026-04-02-rsac-2026-ai-dominates-but-community-remains-key-to-security.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community",
-        "filename": "2026-04-02-rsac-2026-ai-dominates-but-community-remains-key-to-security.md"
+        "thumbnail": "assets/images/2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
+        "filename": "2026-04-03-security-bosses-are-all-in-on-ai-here-s-why.md"
     },
     {
-        "title": "Medtech giant Stryker fully operational after data-wiping attack",
-        "date": "2026-04-02",
+        "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
+        "date": "2026-04-03",
         "category": [
             "Threat Intelligence",
-            "Data Breach"
+            "Malware"
         ],
-        "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-        "filename": "2026-04-02-medtech-giant-stryker-fully-operational-after-data-wiping-attack.md"
+        "thumbnail": "assets/images/2026-04-03-apple-breaks-precedent-patches-darksword-for-ios-18.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
+        "filename": "2026-04-03-apple-breaks-precedent-patches-darksword-for-ios-18.md"
     },
     {
-        "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
-        "date": "2026-04-02",
+        "title": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication",
+        "date": "2026-04-03",
         "category": [
             "Threat Intelligence",
             "Industry News"
         ],
-        "thumbnail": "assets/images/2026-04-02-geopolitics-ai-and-cybersecurity-insights-from-rsac-2026.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
-        "filename": "2026-04-02-geopolitics-ai-and-cybersecurity-insights-from-rsac-2026.md"
+        "thumbnail": "assets/images/2026-04-03-picking-up-skull-vibrations-could-be-xr-headset-authentication.jpg",
+        "source_link": "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication",
+        "filename": "2026-04-03-picking-up-skull-vibrations-could-be-xr-headset-authentication.md"
     },
     {
-        "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-        "date": "2026-04-02",
+        "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
+        "date": "2026-04-03",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
+        "filename": "2026-04-03-not-toying-around-hasbro-attack-may-take-weeks-to-remediate.md"
+    },
+    {
+        "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
+        "date": "2026-04-03",
         "category": [
             "Threat Intelligence",
+            "Malware",
             "Data Breach"
         ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-        "filename": "2026-04-02-adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
+        "filename": "2026-04-03-evolution-of-ransomware-multi-extortion-ransomware-attacks.md"
     },
     {
-        "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
-        "date": "2026-04-02",
+        "title": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain",
+        "date": "2026-04-03",
         "category": [
-            "Threat Intelligence",
-            "Malware"
+            "Industry News",
+            "Threat Intelligence"
         ],
-        "thumbnail": "assets/images/2026-04-02-venom-stealer-maas-platform-commoditizes-clickfix-attacks.jpg",
-        "source_link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
-        "filename": "2026-04-02-venom-stealer-maas-platform-commoditizes-clickfix-attacks.md"
+        "thumbnail": "assets/images/2026-04-03-chainguard-unveils-factory-2-0-to-automate-hardening-the-software-supply-chain.jpg",
+        "source_link": "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain",
+        "filename": "2026-04-03-chainguard-unveils-factory-2-0-to-automate-hardening-the-software-supply-chain.md"
     },
     {
-        "title": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense",
-        "date": "2026-04-02",
+        "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting",
+        "date": "2026-04-03",
         "category": [
             "Threat Intelligence",
-            "Malware"
+            "Data Breach"
         ],
-        "thumbnail": "assets/images/2026-04-02-ransomware-will-hit-hospitals-rehearsals-are-key-to-defense.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense",
-        "filename": "2026-04-02-ransomware-will-hit-hospitals-rehearsals-are-key-to-defense.md"
-    },
-    {
-        "title": "Are We Training AI Too Late?",
-        "date": "2026-04-02",
-        "category": [
-            "Threat Intelligence",
-            "Industry News"
-        ],
-        "thumbnail": "assets/images/2026-04-02-are-we-training-ai-too-late.jpg",
-        "source_link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
-        "filename": "2026-04-02-are-we-training-ai-too-late.md"
+        "thumbnail": "assets/images/2026-04-03-blast-radius-of-teampcp-attacks-expands-amid-hacker-infighting.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting",
+        "filename": "2026-04-03-blast-radius-of-teampcp-attacks-expands-amid-hacker-infighting.md"
     },
     {
         "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
@@ -680,37 +670,37 @@
         "filename": "2026-04-02-new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks.md"
     },
     {
-        "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut",
-        "date": "2026-04-02",
-        "category": [
-            "Industry News",
-            "Threat Intelligence"
-        ],
-        "thumbnail": "assets/images/2026-04-02-latam-s-self-taught-cyber-talent-overlooked-amid-cyberattack-glut.jpg",
-        "source_link": "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut",
-        "filename": "2026-04-02-latam-s-self-taught-cyber-talent-overlooked-amid-cyberattack-glut.md"
-    },
-    {
-        "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+        "title": "Cyberattacks Intensify Pressure on Latin American Governments",
         "date": "2026-04-02",
         "category": [
             "Threat Intelligence",
-            "Malware"
+            "Industry News"
         ],
-        "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-        "filename": "2026-04-02-new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md"
+        "thumbnail": "assets/images/2026-04-02-cyberattacks-intensify-pressure-on-latin-american-governments.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
+        "filename": "2026-04-02-cyberattacks-intensify-pressure-on-latin-american-governments.md"
     },
     {
-        "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+        "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
         "date": "2026-04-02",
         "category": [
             "Threat Intelligence",
-            "Malware"
+            "Data Breach"
         ],
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
-        "filename": "2026-04-02-residential-proxies-evaded-ip-reputation-checks-in-78-of-4b-sessions.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+        "filename": "2026-04-02-adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime.md"
+    },
+    {
+        "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-02-bank-trojan-casbaneiro-worms-through-latin-america.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america",
+        "filename": "2026-04-02-bank-trojan-casbaneiro-worms-through-latin-america.md"
     },
     {
         "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
@@ -724,37 +714,103 @@
         "filename": "2026-04-02-apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks.md"
     },
     {
-        "title": "Cyberattacks Intensify Pressure on Latin American Governments",
+        "title": "Are We Training AI Too Late?",
         "date": "2026-04-02",
         "category": [
             "Threat Intelligence",
             "Industry News"
         ],
-        "thumbnail": "assets/images/2026-04-02-cyberattacks-intensify-pressure-on-latin-american-governments.jpg",
-        "source_link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
-        "filename": "2026-04-02-cyberattacks-intensify-pressure-on-latin-american-governments.md"
+        "thumbnail": "assets/images/2026-04-02-are-we-training-ai-too-late.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
+        "filename": "2026-04-02-are-we-training-ai-too-late.md"
     },
     {
-        "title": "Drift loses $280 million as hackers seize Security Council powers",
-        "date": "2026-04-02",
-        "category": [
-            "Threat Intelligence",
-            "Data Breach"
-        ],
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
-        "filename": "2026-04-02-drift-loses-280-million-as-hackers-seize-security-council-powers.md"
-    },
-    {
-        "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America",
+        "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
         "date": "2026-04-02",
         "category": [
             "Threat Intelligence",
             "Malware"
         ],
-        "thumbnail": "assets/images/2026-04-02-bank-trojan-casbaneiro-worms-through-latin-america.jpg",
-        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america",
-        "filename": "2026-04-02-bank-trojan-casbaneiro-worms-through-latin-america.md"
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+        "filename": "2026-04-02-residential-proxies-evaded-ip-reputation-checks-in-78-of-4b-sessions.md"
+    },
+    {
+        "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+        "filename": "2026-04-02-new-crystalrat-malware-adds-rat-stealer-and-prankware-features.md"
+    },
+    {
+        "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut",
+        "date": "2026-04-02",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-02-latam-s-self-taught-cyber-talent-overlooked-amid-cyberattack-glut.jpg",
+        "source_link": "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut",
+        "filename": "2026-04-02-latam-s-self-taught-cyber-talent-overlooked-amid-cyberattack-glut.md"
+    },
+    {
+        "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-02-rsac-2026-ai-dominates-but-community-remains-key-to-security.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community",
+        "filename": "2026-04-02-rsac-2026-ai-dominates-but-community-remains-key-to-security.md"
+    },
+    {
+        "title": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-02-ransomware-will-hit-hospitals-rehearsals-are-key-to-defense.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense",
+        "filename": "2026-04-02-ransomware-will-hit-hospitals-rehearsals-are-key-to-defense.md"
+    },
+    {
+        "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+        "filename": "2026-04-02-new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md"
+    },
+    {
+        "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-02-venom-stealer-maas-platform-commoditizes-clickfix-attacks.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
+        "filename": "2026-04-02-venom-stealer-maas-platform-commoditizes-clickfix-attacks.md"
+    },
+    {
+        "title": "Medtech giant Stryker fully operational after data-wiping attack",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+        "filename": "2026-04-02-medtech-giant-stryker-fully-operational-after-data-wiping-attack.md"
     },
     {
         "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
@@ -769,23 +825,90 @@
         "filename": "2026-04-02-hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates.md"
     },
     {
-        "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+        "title": "Drift loses $280 million as hackers seize Security Council powers",
         "date": "2026-04-02",
         "category": [
             "Threat Intelligence",
-            "Malware"
+            "Data Breach"
         ],
-        "thumbnail": null,
-        "source_link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-        "filename": "2026-04-02-new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks.md"
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+        "filename": "2026-04-02-drift-loses-280-million-as-hackers-seize-security-council-powers.md"
     },
     {
-        "title": "Are We Ready for Auto Remediation With Agentic AI?",
+        "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
+        "date": "2026-04-02",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-02-geopolitics-ai-and-cybersecurity-insights-from-rsac-2026.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
+        "filename": "2026-04-02-geopolitics-ai-and-cybersecurity-insights-from-rsac-2026.md"
+    },
+    {
+        "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
         "date": "2026-03-10",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.darkreading.com/application-security/auto-remediation-agentic-ai",
-        "filename": "20260310-7816bd50.md"
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
+        "filename": "20260310-9ed2c3a1.md"
+    },
+    {
+        "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
+        "date": "2026-03-10",
+        "category": "[Malware/Vulnerabilities]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
+        "filename": "20260310-eebc263d.md"
+    },
+    {
+        "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
+        "date": "2026-03-10",
+        "category": "[Vulnerabilities]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
+        "filename": "20260310-8322ce73.md"
+    },
+    {
+        "title": "Google: Cloud attacks exploit flaws more than weak credentials",
+        "date": "2026-03-10",
+        "category": "[Vulnerabilities]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
+        "filename": "20260310-f7b9e2e8.md"
+    },
+    {
+        "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
+        "date": "2026-03-10",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
+        "filename": "20260310-2996e226.md"
+    },
+    {
+        "title": "'InstallFix' Attacks Spread Fake Claude Code Sites",
+        "date": "2026-03-10",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code",
+        "filename": "20260310-2262ecbb.md"
+    },
+    {
+        "title": "'BlackSanta' Malware Kills EDR: HR Workflows Under Siege",
+        "date": "2026-03-10",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "assets/images/thumbnails/blacksanta.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+        "filename": "20260310-fc794495.md"
+    },
+    {
+        "title": "Warning: New Microsoft Teams Phishing Attack Drops A0Backdoor Malware",
+        "date": "2026-03-10",
+        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
+        "thumbnail": "assets/images/thumbnails/teams-phishing.jpg",
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
+        "filename": "20260310-0d86165b.md"
     },
     {
         "title": "Ericsson US Hacked: Massive Data Breach Exposed via Third-Party",
@@ -796,12 +919,20 @@
         "filename": "20260310-1cce4af2.md"
     },
     {
-        "title": "'InstallFix' Attacks Spread Fake Claude Code Sites",
+        "title": "Are We Ready for Auto Remediation With Agentic AI?",
         "date": "2026-03-10",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code",
-        "filename": "20260310-2262ecbb.md"
+        "source_link": "https://www.darkreading.com/application-security/auto-remediation-agentic-ai",
+        "filename": "20260310-7816bd50.md"
+    },
+    {
+        "title": "Microsoft releases Windows 10 KB5078885 extended security update",
+        "date": "2026-03-10",
+        "category": "[Vulnerabilities]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
+        "filename": "20260310-620d9a67.md"
     },
     {
         "title": "White House Cyber Strategy Prioritizes Offense",
@@ -820,76 +951,12 @@
         "filename": "20260310-725454ec.md"
     },
     {
-        "title": "Google: Cloud attacks exploit flaws more than weak credentials",
-        "date": "2026-03-10",
-        "category": "[Vulnerabilities]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
-        "filename": "20260310-f7b9e2e8.md"
-    },
-    {
-        "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
-        "date": "2026-03-10",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
-        "filename": "20260310-9ed2c3a1.md"
-    },
-    {
-        "title": "'BlackSanta' Malware Kills EDR: HR Workflows Under Siege",
-        "date": "2026-03-10",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "assets/images/thumbnails/blacksanta.jpg",
-        "source_link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
-        "filename": "20260310-fc794495.md"
-    },
-    {
-        "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
-        "date": "2026-03-10",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
-        "filename": "20260310-2996e226.md"
-    },
-    {
-        "title": "Warning: New Microsoft Teams Phishing Attack Drops A0Backdoor Malware",
-        "date": "2026-03-10",
-        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
-        "thumbnail": "assets/images/thumbnails/teams-phishing.jpg",
-        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
-        "filename": "20260310-0d86165b.md"
-    },
-    {
-        "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
-        "date": "2026-03-10",
-        "category": "[Vulnerabilities]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
-        "filename": "20260310-8322ce73.md"
-    },
-    {
-        "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
-        "date": "2026-03-10",
-        "category": "[Malware/Vulnerabilities]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
-        "filename": "20260310-eebc263d.md"
-    },
-    {
-        "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-        "date": "2026-03-10",
-        "category": "[Vulnerabilities]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-        "filename": "20260310-620d9a67.md"
-    },
-    {
-        "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
+        "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
         "date": "2026-03-09",
-        "category": "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]",
+        "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-        "filename": "20260309-4dc2f078.md"
+        "source_link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
+        "filename": "20260309-33db9371.md"
     },
     {
         "title": "Microsoft Teams will tag third-party bots trying to join meetings",
@@ -900,12 +967,12 @@
         "filename": "20260309-0c627d7f.md"
     },
     {
-        "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
+        "title": "ShinyHunters Leak: Ongoing Salesforce Aura Data Theft Revealed",
         "date": "2026-03-09",
-        "category": "[Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
-        "filename": "20260309-33db9371.md"
+        "category": "Uncategorized",
+        "thumbnail": "assets/images/thumbnails/salesforce-shinyhunters.jpg",
+        "source_link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
+        "filename": "20260309-66829c2f.md"
     },
     {
         "title": "FBI warns of phishing attacks impersonating US city, county officials",
@@ -916,12 +983,12 @@
         "filename": "20260309-107aba63.md"
     },
     {
-        "title": "ShinyHunters Leak: Ongoing Salesforce Aura Data Theft Revealed",
+        "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
         "date": "2026-03-09",
-        "category": "Uncategorized",
-        "thumbnail": "assets/images/thumbnails/salesforce-shinyhunters.jpg",
-        "source_link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
-        "filename": "20260309-66829c2f.md"
+        "category": "[Malware/Vulnerabilities/Data Breach/Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
+        "filename": "20260309-4dc2f078.md"
     },
     {
         "title": "Microsoft still working to fix Windows Explorer white flashes",
@@ -956,36 +1023,20 @@
         "filename": "20260308-df4599f4.md"
     },
     {
+        "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape",
+        "date": "2026-03-07",
+        "category": "[Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine",
+        "filename": "20260307-ecbd0f3b.md"
+    },
+    {
         "title": "Cyberattack on Mexico's Gov't Agencies Highlight AI Threat",
         "date": "2026-03-07",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
         "source_link": "https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat",
         "filename": "20260307-384c377a.md"
-    },
-    {
-        "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
-        "date": "2026-03-07",
-        "category": "[Data Breach/Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
-        "filename": "20260307-fd13d521.md"
-    },
-    {
-        "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-        "date": "2026-03-07",
-        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-        "filename": "20260307-a1a5c86d.md"
-    },
-    {
-        "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-        "date": "2026-03-07",
-        "category": "Threat Intelligence",
-        "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-        "filename": "20260307-14d65f17.md"
     },
     {
         "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
@@ -996,12 +1047,28 @@
         "filename": "20260307-4b278f5b.md"
     },
     {
-        "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape",
+        "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
         "date": "2026-03-07",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine",
-        "filename": "20260307-ecbd0f3b.md"
+        "source_link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
+        "filename": "20260307-ddabee43.md"
+    },
+    {
+        "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+        "date": "2026-03-07",
+        "category": "Threat Intelligence",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
+        "filename": "20260307-14d65f17.md"
+    },
+    {
+        "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
+        "date": "2026-03-07",
+        "category": "[Data Breach/Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
+        "filename": "20260307-fd13d521.md"
     },
     {
         "title": "EU Auto Rules Shift Gears on Cybersecurity Standards",
@@ -1012,12 +1079,12 @@
         "filename": "20260307-cf13a49c.md"
     },
     {
-        "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
+        "title": "Nation-State Actor Embraces AI Malware Assembly Line",
         "date": "2026-03-07",
-        "category": "[Threat Intelligence]",
+        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-        "filename": "20260307-fa946a4e.md"
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
+        "filename": "20260307-24cbfe4b.md"
     },
     {
         "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
@@ -1028,12 +1095,20 @@
         "filename": "20260307-04df7ee0.md"
     },
     {
-        "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
+        "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
         "date": "2026-03-07",
         "category": "[Threat Intelligence]",
         "thumbnail": "",
-        "source_link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
-        "filename": "20260307-ddabee43.md"
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
+        "filename": "20260307-fa946a4e.md"
+    },
+    {
+        "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
+        "date": "2026-03-07",
+        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
+        "filename": "20260307-a1a5c86d.md"
     },
     {
         "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
@@ -1042,13 +1117,5 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
         "filename": "20260307-cab8f624.md"
-    },
-    {
-        "title": "Nation-State Actor Embraces AI Malware Assembly Line",
-        "date": "2026-03-07",
-        "category": "[Malware/Vulnerabilities/Threat Intelligence]",
-        "thumbnail": "",
-        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
-        "filename": "20260307-24cbfe4b.md"
     }
 ]
