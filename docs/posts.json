@@ -1,5 +1,49 @@
 [
     {
+        "title": "Microsoft suspends dev accounts for high-profile open source projects",
+        "date": "2026-04-09",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+        "filename": "2026-04-09-microsoft-suspends-dev-accounts-for-high-profile-open-source-projects.md"
+    },
+    {
+        "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
+        "date": "2026-04-09",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
+        "filename": "2026-04-09-hackers-steal-3-6-million-from-crypto-atm-giant-bitcoin-depot.md"
+    },
+    {
+        "title": "Threat Actors Get Crafty With Emojis to Escape Detection",
+        "date": "2026-04-09",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-09-threat-actors-get-crafty-with-emojis-to-escape-detection.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications",
+        "filename": "2026-04-09-threat-actors-get-crafty-with-emojis-to-escape-detection.md"
+    },
+    {
+        "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+        "date": "2026-04-09",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+        "filename": "2026-04-09-hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer.md"
+    },
+    {
         "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
         "date": "2026-04-08",
         "category": [
