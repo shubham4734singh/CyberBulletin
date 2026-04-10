@@ -1,5 +1,61 @@
 [
     {
+        "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+        "filename": "2026-04-10-new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities.md"
+    },
+    {
+        "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
+        "filename": "2026-04-10-new-venom-phishing-attacks-steal-senior-executives-microsoft-logins.md"
+    },
+    {
+        "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-10-russia-s-fancy-bear-apt-continues-its-global-onslaught.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
+        "filename": "2026-04-10-russia-s-fancy-bear-apt-continues-its-global-onslaught.md"
+    },
+    {
+        "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+        "filename": "2026-04-10-healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack.md"
+    },
+    {
+        "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues",
+        "date": "2026-04-10",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-10-bluehammer-windows-zero-day-exploit-signals-microsoft-bug-disclosure-issues.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
+        "filename": "2026-04-10-bluehammer-windows-zero-day-exploit-signals-microsoft-bug-disclosure-issues.md"
+    },
+    {
         "title": "When attackers already have the keys, MFA is just another door to open",
         "date": "2026-04-09",
         "category": [
