@@ -1,5 +1,50 @@
 [
     {
+        "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+        "filename": "2026-04-10-nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks.md"
+    },
+    {
+        "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
+        "date": "2026-04-10",
+        "category": [
+            "Malware",
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+        "filename": "2026-04-10-cpuid-hacked-to-deliver-malware-via-cpu-z-hwmonitor-downloads.md"
+    },
+    {
+        "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+        "filename": "2026-04-10-analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security.md"
+    },
+    {
+        "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+        "date": "2026-04-10",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+        "filename": "2026-04-10-google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices.md"
+    },
+    {
         "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities",
         "date": "2026-04-10",
         "category": [
@@ -9,6 +54,17 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
         "filename": "2026-04-10-new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities.md"
+    },
+    {
+        "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-10-can-anthropic-keep-its-exploit-writing-ai-out-of-the-wrong-hands.jpg",
+        "source_link": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
+        "filename": "2026-04-10-can-anthropic-keep-its-exploit-writing-ai-out-of-the-wrong-hands.md"
     },
     {
         "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
@@ -54,6 +110,17 @@
         "thumbnail": "assets/images/2026-04-10-bluehammer-windows-zero-day-exploit-signals-microsoft-bug-disclosure-issues.jpg",
         "source_link": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
         "filename": "2026-04-10-bluehammer-windows-zero-day-exploit-signals-microsoft-bug-disclosure-issues.md"
+    },
+    {
+        "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
+        "date": "2026-04-10",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-10-industrial-controllers-still-vulnerable-as-conflicts-move-to-cyber.jpg",
+        "source_link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
+        "filename": "2026-04-10-industrial-controllers-still-vulnerable-as-conflicts-move-to-cyber.md"
     },
     {
         "title": "When attackers already have the keys, MFA is just another door to open",
