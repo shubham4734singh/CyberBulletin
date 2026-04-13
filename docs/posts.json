@@ -1,5 +1,72 @@
 [
     {
+        "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+        "date": "2026-04-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+        "filename": "2026-04-13-openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow.md"
+    },
+    {
+        "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+        "date": "2026-04-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Legal"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+        "filename": "2026-04-13-fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest.md"
+    },
+    {
+        "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+        "date": "2026-04-13",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+        "filename": "2026-04-13-adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw.md"
+    },
+    {
+        "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side",
+        "date": "2026-04-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+        "filename": "2026-04-13-the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side.md"
+    },
+    {
+        "title": "New Booking.com data breach forces reservation PIN resets",
+        "date": "2026-04-13",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+        "filename": "2026-04-13-new-booking-com-data-breach-forces-reservation-pin-resets.md"
+    },
+    {
+        "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
+        "date": "2026-04-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-13-apt41-delivers-zero-detection-backdoor-to-harvest-cloud-credentials.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
+        "filename": "2026-04-13-apt41-delivers-zero-detection-backdoor-to-harvest-cloud-credentials.md"
+    },
+    {
         "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
         "date": "2026-04-12",
         "category": [
