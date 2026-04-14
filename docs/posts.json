@@ -1,5 +1,27 @@
 [
     {
+        "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
+        "date": "2026-04-14",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
+        "filename": "2026-04-14-windows-11-cumulative-updates-kb5083769-kb5082052-released.md"
+    },
+    {
+        "title": "Microsoft releases Windows 10 KB5082200 extended security update",
+        "date": "2026-04-14",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+        "filename": "2026-04-14-microsoft-releases-windows-10-kb5082200-extended-security-update.md"
+    },
+    {
         "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
         "date": "2026-04-14",
         "category": [
@@ -22,6 +44,18 @@
         "filename": "2026-04-14-empty-attestations-ot-lacks-the-tools-for-cryptographic-readiness.md"
     },
     {
+        "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+        "date": "2026-04-14",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+        "filename": "2026-04-14-microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days.md"
+    },
+    {
         "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
         "date": "2026-04-14",
         "category": [
@@ -34,6 +68,18 @@
         "filename": "2026-04-14-adobe-patches-actively-exploited-zero-day-that-lingered-for-months.md"
     },
     {
+        "title": "McGraw-Hill confirms data breach following extortion threat",
+        "date": "2026-04-14",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+        "filename": "2026-04-14-mcgraw-hill-confirms-data-breach-following-extortion-threat.md"
+    },
+    {
         "title": "Critical flaw in wolfSSL library enables forged certificate use",
         "date": "2026-04-14",
         "category": [
@@ -43,6 +89,29 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
         "filename": "2026-04-14-critical-flaw-in-wolfssl-library-enables-forged-certificate-use.md"
+    },
+    {
+        "title": "Wargame Exercise Demonstrates How Social Media Manipulation Works",
+        "date": "2026-04-14",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-14-wargame-exercise-demonstrates-how-social-media-manipulation-works.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
+        "filename": "2026-04-14-wargame-exercise-demonstrates-how-social-media-manipulation-works.md"
+    },
+    {
+        "title": "Fake Ledger Live app on Apple\u2019s App Store stole $9.5M in crypto",
+        "date": "2026-04-14",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
+        "filename": "2026-04-14-fake-ledger-live-app-on-apple-s-app-store-stole-9-5m-in-crypto.md"
     },
     {
         "title": "European Gym giant Basic-Fit data breach affects 1 million members",
