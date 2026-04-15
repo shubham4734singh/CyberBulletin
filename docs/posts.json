@@ -11,6 +11,17 @@
         "filename": "2026-04-15-microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity.md"
     },
     {
+        "title": "Rolling Networks: Securing the Transportation Sector",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+        "filename": "2026-04-15-rolling-networks-securing-the-transportation-sector.md"
+    },
+    {
         "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
         "date": "2026-04-15",
         "category": [
@@ -20,6 +31,17 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
         "filename": "2026-04-15-microsoft-adds-windows-protections-for-malicious-remote-desktop-files.md"
+    },
+    {
+        "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
+        "date": "2026-04-15",
+        "category": [
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-15-audit-big-tech-often-ignores-ca-privacy-law-opt-out-requests.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
+        "filename": "2026-04-15-audit-big-tech-often-ignores-ca-privacy-law-opt-out-requests.md"
     },
     {
         "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
@@ -32,6 +54,17 @@
         "thumbnail": "assets/images/2026-04-15-privilege-elevation-dominates-massive-microsoft-patch-update.jpg",
         "source_link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
         "filename": "2026-04-15-privilege-elevation-dominates-massive-microsoft-patch-update.md"
+    },
+    {
+        "title": "Signed software abused to deploy antivirus-killing scripts",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+        "filename": "2026-04-15-signed-software-abused-to-deploy-antivirus-killing-scripts.md"
     },
     {
         "title": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses",
@@ -57,6 +90,28 @@
         "filename": "2026-04-15-why-orgs-need-to-test-networks-to-withstand-ddos-attacks-during-peak-loads.md"
     },
     {
+        "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+        "date": "2026-04-15",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+        "filename": "2026-04-15-microsoft-pays-2-3m-for-cloud-and-ai-flaws-at-zero-day-quest.md"
+    },
+    {
+        "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-15-microsoft-salesforce-patch-ai-agent-data-leak-flaws.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+        "filename": "2026-04-15-microsoft-salesforce-patch-ai-agent-data-leak-flaws.md"
+    },
+    {
         "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
         "date": "2026-04-15",
         "category": [
@@ -67,6 +122,17 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
         "filename": "2026-04-15-over-100-chrome-web-store-extensions-steal-user-accounts-data.md"
+    },
+    {
+        "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+        "date": "2026-04-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+        "filename": "2026-04-15-cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks.md"
     },
     {
         "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
