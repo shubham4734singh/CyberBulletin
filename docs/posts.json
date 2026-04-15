@@ -1,5 +1,85 @@
 [
     {
+        "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
+        "date": "2026-04-15",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-15-microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity",
+        "filename": "2026-04-15-microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity.md"
+    },
+    {
+        "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
+        "filename": "2026-04-15-microsoft-adds-windows-protections-for-malicious-remote-desktop-files.md"
+    },
+    {
+        "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
+        "date": "2026-04-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-15-privilege-elevation-dominates-massive-microsoft-patch-update.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
+        "filename": "2026-04-15-privilege-elevation-dominates-massive-microsoft-patch-update.md"
+    },
+    {
+        "title": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-15-edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
+        "filename": "2026-04-15-edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses.md"
+    },
+    {
+        "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-15-why-orgs-need-to-test-networks-to-withstand-ddos-attacks-during-peak-loads.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
+        "filename": "2026-04-15-why-orgs-need-to-test-networks-to-withstand-ddos-attacks-during-peak-loads.md"
+    },
+    {
+        "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+        "filename": "2026-04-15-over-100-chrome-web-store-extensions-steal-user-accounts-data.md"
+    },
+    {
+        "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
+        "date": "2026-04-15",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+        "filename": "2026-04-15-crypto-exchange-kraken-extorted-by-hackers-after-insider-breach.md"
+    },
+    {
         "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
         "date": "2026-04-14",
         "category": [
