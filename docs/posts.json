@@ -1,5 +1,73 @@
 [
     {
+        "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-16-navigating-the-unique-security-risks-of-asia-s-digital-supply-chain.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain",
+        "filename": "2026-04-16-navigating-the-unique-security-risks-of-asia-s-digital-supply-chain.md"
+    },
+    {
+        "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+        "date": "2026-04-16",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+        "filename": "2026-04-16-critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild.md"
+    },
+    {
+        "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-04-16-6-year-ransomware-campaign-targets-turkish-homes-amp-smbs.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
+        "filename": "2026-04-16-6-year-ransomware-campaign-targets-turkish-homes-amp-smbs.md"
+    },
+    {
+        "title": "WordPress plugin suite hacked to push malware to thousands of sites",
+        "date": "2026-04-16",
+        "category": [
+            "Malware",
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+        "filename": "2026-04-16-wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites.md"
+    },
+    {
+        "title": "Critical MCP Integration Flaw Puts NGINX at Risk",
+        "date": "2026-04-16",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-16-critical-mcp-integration-flaw-puts-nginx-at-risk.jpg",
+        "source_link": "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk",
+        "filename": "2026-04-16-critical-mcp-integration-flaw-puts-nginx-at-risk.md"
+    },
+    {
+        "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+        "filename": "2026-04-16-new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals.md"
+    },
+    {
         "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
         "date": "2026-04-15",
         "category": [
