@@ -1,5 +1,27 @@
 [
     {
+        "title": "Cisco says critical Webex Services flaw requires customer action",
+        "date": "2026-04-16",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+        "filename": "2026-04-16-cisco-says-critical-webex-services-flaw-requires-customer-action.md"
+    },
+    {
+        "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
+        "date": "2026-04-16",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-16-microsoft-s-original-windows-secure-boot-certificate-is-expiring.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
+        "filename": "2026-04-16-microsoft-s-original-windows-secure-boot-certificate-is-expiring.md"
+    },
+    {
         "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
         "date": "2026-04-16",
         "category": [
@@ -22,6 +44,18 @@
         "filename": "2026-04-16-critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild.md"
     },
     {
+        "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
+        "filename": "2026-04-16-hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face.md"
+    },
+    {
         "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
         "date": "2026-04-16",
         "category": [
@@ -32,6 +66,17 @@
         "thumbnail": "assets/images/2026-04-16-6-year-ransomware-campaign-targets-turkish-homes-amp-smbs.jpg",
         "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
         "filename": "2026-04-16-6-year-ransomware-campaign-targets-turkish-homes-amp-smbs.md"
+    },
+    {
+        "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
+        "filename": "2026-04-16-most-ai-socs-are-just-faster-triage-that-s-not-enough.md"
     },
     {
         "title": "WordPress plugin suite hacked to push malware to thousands of sites",
@@ -57,6 +102,17 @@
         "filename": "2026-04-16-critical-mcp-integration-flaw-puts-nginx-at-risk.md"
     },
     {
+        "title": "Google expands Gemini AI use to fight malicious ads on its platform",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
+        "filename": "2026-04-16-google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform.md"
+    },
+    {
         "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
         "date": "2026-04-16",
         "category": [
@@ -66,6 +122,28 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
         "filename": "2026-04-16-new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals.md"
+    },
+    {
+        "title": "Two-Factor Authentication Breaks Free from the Desktop",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-16-two-factor-authentication-breaks-free-from-the-desktop.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
+        "filename": "2026-04-16-two-factor-authentication-breaks-free-from-the-desktop.md"
+    },
+    {
+        "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+        "date": "2026-04-16",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
+        "filename": "2026-04-16-new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks.md"
     },
     {
         "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
