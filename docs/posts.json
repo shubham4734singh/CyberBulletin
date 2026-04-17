@@ -1,5 +1,84 @@
 [
     {
+        "title": "ZionSiphon malware designed to sabotage water treatment systems",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+        "filename": "2026-04-17-zionsiphon-malware-designed-to-sabotage-water-treatment-systems.md"
+    },
+    {
+        "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
+        "filename": "2026-04-17-operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains.md"
+    },
+    {
+        "title": "North Korea Uses ClickFix to Target macOS Users' Data",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-17-north-korea-uses-clickfix-to-target-macos-users-data.jpg",
+        "source_link": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
+        "filename": "2026-04-17-north-korea-uses-clickfix-to-target-macos-users-data.md"
+    },
+    {
+        "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
+        "date": "2026-04-17",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+        "filename": "2026-04-17-microsoft-some-windows-servers-enter-reboot-loops-after-april-patches.md"
+    },
+    {
+        "title": "'Harmless' Global Adware Transforms Into an AV Killer",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-17-harmless-global-adware-transforms-into-an-av-killer.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer",
+        "filename": "2026-04-17-harmless-global-adware-transforms-into-an-av-killer.md"
+    },
+    {
+        "title": "Recently leaked Windows zero-days now exploited in attacks",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+        "filename": "2026-04-17-recently-leaked-windows-zero-days-now-exploited-in-attacks.md"
+    },
+    {
+        "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Legal"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+        "filename": "2026-04-17-man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts.md"
+    },
+    {
         "title": "Cisco says critical Webex Services flaw requires customer action",
         "date": "2026-04-16",
         "category": [
