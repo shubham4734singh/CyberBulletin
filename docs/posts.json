@@ -1,5 +1,16 @@
 [
     {
+        "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+        "filename": "2026-04-17-payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security.md"
+    },
+    {
         "title": "ZionSiphon malware designed to sabotage water treatment systems",
         "date": "2026-04-17",
         "category": [
@@ -22,6 +33,17 @@
         "filename": "2026-04-17-operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains.md"
     },
     {
+        "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
+        "date": "2026-04-17",
+        "category": [
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-17-coast-guard-s-new-cybersecurity-rules-offers-lessons-for-cisos.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
+        "filename": "2026-04-17-coast-guard-s-new-cybersecurity-rules-offers-lessons-for-cisos.md"
+    },
+    {
         "title": "North Korea Uses ClickFix to Target macOS Users' Data",
         "date": "2026-04-17",
         "category": [
@@ -31,6 +53,51 @@
         "thumbnail": "assets/images/2026-04-17-north-korea-uses-clickfix-to-target-macos-users-data.jpg",
         "source_link": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
         "filename": "2026-04-17-north-korea-uses-clickfix-to-target-macos-users-data.md"
+    },
+    {
+        "title": "Every Old Vulnerability Is Now an AI Vulnerability",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-17-every-old-vulnerability-is-now-an-ai-vulnerability.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
+        "filename": "2026-04-17-every-old-vulnerability-is-now-an-ai-vulnerability.md"
+    },
+    {
+        "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+        "filename": "2026-04-17-webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery.md"
+    },
+    {
+        "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
+        "date": "2026-04-17",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+        "filename": "2026-04-17-cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks.md"
+    },
+    {
+        "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
+        "date": "2026-04-17",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-17-nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities.jpeg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
+        "filename": "2026-04-17-nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities.md"
     },
     {
         "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
@@ -77,6 +144,18 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
         "filename": "2026-04-17-man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts.md"
+    },
+    {
+        "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
+        "date": "2026-04-17",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
+        "filename": "2026-04-17-grinex-exchange-blames-western-intelligence-for-13-7m-crypto-hack.md"
     },
     {
         "title": "Cisco says critical Webex Services flaw requires customer action",
