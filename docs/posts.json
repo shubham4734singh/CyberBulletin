@@ -1,5 +1,16 @@
 [
     {
+        "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+        "date": "2026-04-18",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+        "filename": "2026-04-18-critical-flaw-in-protobuf-library-enables-javascript-code-execution.md"
+    },
+    {
         "title": "Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing",
         "date": "2026-04-18",
         "category": [
@@ -9,6 +20,17 @@
         "thumbnail": "assets/images/2026-04-18-tycoon-2fa-phishers-scatter-adopt-device-code-phishing.jpg",
         "source_link": "https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing",
         "filename": "2026-04-18-tycoon-2fa-phishers-scatter-adopt-device-code-phishing.md"
+    },
+    {
+        "title": "Microsoft Teams right-click paste broken by Edge update bug",
+        "date": "2026-04-18",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
+        "filename": "2026-04-18-microsoft-teams-right-click-paste-broken-by-edge-update-bug.md"
     },
     {
         "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
