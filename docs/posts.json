@@ -1,5 +1,39 @@
 [
     {
+        "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+        "date": "2026-04-19",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "filename": "2026-04-19-vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md"
+    },
+    {
+        "title": "Apple account change alerts abused to send phishing emails",
+        "date": "2026-04-19",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+        "filename": "2026-04-19-apple-account-change-alerts-abused-to-send-phishing-emails.md"
+    },
+    {
+        "title": "NIST to stop rating non-priority flaws due to volume increase",
+        "date": "2026-04-19",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+        "filename": "2026-04-19-nist-to-stop-rating-non-priority-flaws-due-to-volume-increase.md"
+    },
+    {
         "title": "Critical flaw in Protobuf library enables JavaScript code execution",
         "date": "2026-04-18",
         "category": [
