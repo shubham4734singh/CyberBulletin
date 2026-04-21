@@ -11,6 +11,39 @@
         "filename": "2026-04-21-serial-to-ip-devices-hide-thousands-of-old-and-new-bugs.md"
     },
     {
+        "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+        "date": "2026-04-21",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+        "filename": "2026-04-21-actively-exploited-apache-activemq-flaw-impacts-6-400-servers.md"
+    },
+    {
+        "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
+        "filename": "2026-04-21-new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms.md"
+    },
+    {
+        "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+        "date": "2026-04-21",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+        "filename": "2026-04-21-cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks.md"
+    },
+    {
         "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
         "date": "2026-04-21",
         "category": [
@@ -33,6 +66,28 @@
         "filename": "2026-04-21-the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks.md"
     },
     {
+        "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
+        "date": "2026-04-21",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-21-google-fixes-critical-rce-flaw-in-ai-based-antigravity-tool.png",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
+        "filename": "2026-04-21-google-fixes-critical-rce-flaw-in-ai-based-antigravity-tool.md"
+    },
+    {
+        "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
+        "filename": "2026-04-21-stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction.md"
+    },
+    {
         "title": "Vercel Employee's AI Tool Access Led to Data Breach",
         "date": "2026-04-21",
         "category": [
@@ -53,6 +108,29 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
         "filename": "2026-04-21-china-s-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps.md"
+    },
+    {
+        "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+        "filename": "2026-04-21-uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns.md"
+    },
+    {
+        "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-21-surge-in-bomgar-rmm-exploitation-demonstrates-supply-chain-risk.png",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
+        "filename": "2026-04-21-surge-in-bomgar-rmm-exploitation-demonstrates-supply-chain-risk.md"
     },
     {
         "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
