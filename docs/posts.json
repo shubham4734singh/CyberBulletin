@@ -1,5 +1,60 @@
 [
     {
+        "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-21-serial-to-ip-devices-hide-thousands-of-old-and-new-bugs.jpg",
+        "source_link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+        "filename": "2026-04-21-serial-to-ip-devices-hide-thousands-of-old-and-new-bugs.md"
+    },
+    {
+        "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+        "filename": "2026-04-21-kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers.md"
+    },
+    {
+        "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses/systembc-for-bot-powered-attacks/",
+        "filename": "2026-04-21-the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks.md"
+    },
+    {
+        "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+        "date": "2026-04-21",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-21-vercel-employee-s-ai-tool-access-led-to-data-breach.jpg",
+        "source_link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+        "filename": "2026-04-21-vercel-employee-s-ai-tool-access-led-to-data-breach.md"
+    },
+    {
+        "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
+        "date": "2026-04-21",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+        "filename": "2026-04-21-china-s-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps.md"
+    },
+    {
         "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
         "date": "2026-04-20",
         "category": [
