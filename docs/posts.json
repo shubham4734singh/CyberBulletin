@@ -1,5 +1,37 @@
 [
     {
+        "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+        "date": "2026-04-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+        "filename": "2026-04-22-kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows.md"
+    },
+    {
+        "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
+        "date": "2026-04-22",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
+        "filename": "2026-04-22-microsoft-teams-to-get-efficiency-mode-on-pcs-with-limited-resources.md"
+    },
+    {
+        "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+        "date": "2026-04-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+        "filename": "2026-04-22-new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens.md"
+    },
+    {
         "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
         "date": "2026-04-22",
         "category": [
@@ -9,6 +41,29 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
         "filename": "2026-04-22-over-1-300-microsoft-sharepoint-servers-vulnerable-to-spoofing-attacks.md"
+    },
+    {
+        "title": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'",
+        "date": "2026-04-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-22-dprk-fake-job-scams-self-propagate-in-contagious-interview.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview",
+        "filename": "2026-04-22-dprk-fake-job-scams-self-propagate-in-contagious-interview.md"
+    },
+    {
+        "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
+        "date": "2026-04-22",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
+        "filename": "2026-04-22-spain-dismantles-major-4-7m-manga-piracy-platform-arrests-four.md"
     },
     {
         "title": "Exploits Turn Windows Defender into Attacker Tool",
