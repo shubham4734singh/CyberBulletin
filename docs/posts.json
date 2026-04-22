@@ -1,5 +1,51 @@
 [
     {
+        "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+        "date": "2026-04-22",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+        "filename": "2026-04-22-over-1-300-microsoft-sharepoint-servers-vulnerable-to-spoofing-attacks.md"
+    },
+    {
+        "title": "Exploits Turn Windows Defender into Attacker Tool",
+        "date": "2026-04-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-22-exploits-turn-windows-defender-into-attacker-tool.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+        "filename": "2026-04-22-exploits-turn-windows-defender-into-attacker-tool.md"
+    },
+    {
+        "title": "French govt agency confirms breach as hacker offers to sell data",
+        "date": "2026-04-22",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+        "filename": "2026-04-22-french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data.md"
+    },
+    {
+        "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme",
+        "date": "2026-04-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Legal"
+        ],
+        "thumbnail": "assets/images/2026-04-22-ransomware-negotiator-pleads-guilty-to-blackcat-scheme.jpg",
+        "source_link": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
+        "filename": "2026-04-22-ransomware-negotiator-pleads-guilty-to-blackcat-scheme.md"
+    },
+    {
         "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
         "date": "2026-04-21",
         "category": [
