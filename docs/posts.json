@@ -1,5 +1,38 @@
 [
     {
+        "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+        "date": "2026-04-24",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
+        "filename": "2026-04-24-over-10-000-zimbra-servers-vulnerable-to-ongoing-xss-attacks.md"
+    },
+    {
+        "title": "New \u2018Pack2TheRoot\u2019 flaw gives hackers root Linux access",
+        "date": "2026-04-24",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+        "filename": "2026-04-24-new-pack2theroot-flaw-gives-hackers-root-linux-access.md"
+    },
+    {
+        "title": "New BlackFile extortion group linked to surge of vishing attacks",
+        "date": "2026-04-24",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+        "filename": "2026-04-24-new-blackfile-extortion-group-linked-to-surge-of-vishing-attacks.md"
+    },
+    {
         "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
         "date": "2026-04-24",
         "category": [
@@ -9,6 +42,39 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
         "filename": "2026-04-24-hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin.md"
+    },
+    {
+        "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
+        "date": "2026-04-24",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-04-24-glasswing-secured-the-code-the-rest-of-your-stack-is-still-on-you.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
+        "filename": "2026-04-24-glasswing-secured-the-code-the-rest-of-your-stack-is-still-on-you.md"
+    },
+    {
+        "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
+        "date": "2026-04-24",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-24-ai-phishing-is-no-1-with-a-bullet-for-cyberattackers.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
+        "filename": "2026-04-24-ai-phishing-is-no-1-with-a-bullet-for-cyberattackers.md"
+    },
+    {
+        "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
+        "date": "2026-04-24",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-24-north-korea-s-lazarus-targets-macos-users-via-clickfix.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
+        "filename": "2026-04-24-north-korea-s-lazarus-targets-macos-users-via-clickfix.md"
     },
     {
         "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
