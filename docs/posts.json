@@ -1,5 +1,38 @@
 [
     {
+        "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+        "date": "2026-04-24",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+        "filename": "2026-04-24-hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin.md"
+    },
+    {
+        "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
+        "date": "2026-04-24",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-24-tropic-trooper-apt-takes-aim-at-home-routers-japanese-targets.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
+        "filename": "2026-04-24-tropic-trooper-apt-takes-aim-at-home-routers-japanese-targets.md"
+    },
+    {
+        "title": "China-Backed Hackers Are Industrializing Botnets",
+        "date": "2026-04-24",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-24-china-backed-hackers-are-industrializing-botnets.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets",
+        "filename": "2026-04-24-china-backed-hackers-are-industrializing-botnets.md"
+    },
+    {
         "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
         "date": "2026-04-23",
         "category": [
