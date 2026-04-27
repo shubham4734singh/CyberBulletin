@@ -1,5 +1,27 @@
 [
     {
+        "title": "Home security giant ADT data breach affects 5.5 million people",
+        "date": "2026-04-27",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+        "filename": "2026-04-27-home-security-giant-adt-data-breach-affects-5-5-million-people.md"
+    },
+    {
+        "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
+        "date": "2026-04-27",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-27-20-year-old-malware-rewrites-history-of-cyber-sabotage.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
+        "filename": "2026-04-27-20-year-old-malware-rewrites-history-of-cyber-sabotage.md"
+    },
+    {
         "title": "Helping Romance Scam Victims Require a Proactive, Empathic Approach",
         "date": "2026-04-27",
         "category": [
@@ -10,6 +32,50 @@
         "thumbnail": "assets/images/2026-04-27-helping-romance-scam-victims-require-a-proactive-empathic-approach.jpg",
         "source_link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
         "filename": "2026-04-27-helping-romance-scam-victims-require-a-proactive-empathic-approach.md"
+    },
+    {
+        "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+        "date": "2026-04-27",
+        "category": [
+            "Malware",
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+        "filename": "2026-04-27-pypi-package-with-1-1m-monthly-downloads-hacked-to-push-infostealer.md"
+    },
+    {
+        "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation",
+        "date": "2026-04-27",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-27-unpatched-phantomrpc-flaw-in-windows-enables-privilege-escalation.png",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
+        "filename": "2026-04-27-unpatched-phantomrpc-flaw-in-windows-enables-privilege-escalation.md"
+    },
+    {
+        "title": "Parsing Agentic Offensive Security's Existential Threat",
+        "date": "2026-04-27",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-27-parsing-agentic-offensive-security-s-existential-threat.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
+        "filename": "2026-04-27-parsing-agentic-offensive-security-s-existential-threat.md"
+    },
+    {
+        "title": "Webinar: Spotting cyberattacks before they begin",
+        "date": "2026-04-27",
+        "category": [
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
+        "filename": "2026-04-27-webinar-spotting-cyberattacks-before-they-begin.md"
     },
     {
         "title": "American utility firm Itron discloses breach of internal IT network",
