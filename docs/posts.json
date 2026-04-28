@@ -1,5 +1,61 @@
 [
     {
+        "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-28-unc6692-combines-social-engineering-malware-cloud-abuse.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+        "filename": "2026-04-28-unc6692-combines-social-engineering-malware-cloud-abuse.md"
+    },
+    {
+        "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
+        "filename": "2026-04-28-canada-arrests-three-for-operating-sms-blaster-device-in-toronto.md"
+    },
+    {
+        "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Legal"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
+        "filename": "2026-04-28-alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage.md"
+    },
+    {
+        "title": "Robinhood account creation flaw abused to send phishing emails",
+        "date": "2026-04-28",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+        "filename": "2026-04-28-robinhood-account-creation-flaw-abused-to-send-phishing-emails.md"
+    },
+    {
+        "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+        "filename": "2026-04-28-glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions.md"
+    },
+    {
         "title": "Home security giant ADT data breach affects 5.5 million people",
         "date": "2026-04-27",
         "category": [
