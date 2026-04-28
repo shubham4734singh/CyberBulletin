@@ -1,5 +1,16 @@
 [
     {
+        "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+        "filename": "2026-04-28-inside-an-opsec-playbook-how-threat-actors-evade-detection.md"
+    },
+    {
         "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
         "date": "2026-04-28",
         "category": [
@@ -9,6 +20,17 @@
         "thumbnail": "assets/images/2026-04-28-unc6692-combines-social-engineering-malware-cloud-abuse.jpg",
         "source_link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
         "filename": "2026-04-28-unc6692-combines-social-engineering-malware-cloud-abuse.md"
+    },
+    {
+        "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-28-fresh-wave-of-glassworm-vs-code-extensions-slices-through-supply-chain.jpg",
+        "source_link": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
+        "filename": "2026-04-28-fresh-wave-of-glassworm-vs-code-extensions-slices-through-supply-chain.md"
     },
     {
         "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
@@ -34,6 +56,17 @@
         "filename": "2026-04-28-alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage.md"
     },
     {
+        "title": "Vidar Rises to Top of Chaotic Infostealer Market",
+        "date": "2026-04-28",
+        "category": [
+            "Malware",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-28-vidar-rises-to-top-of-chaotic-infostealer-market.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
+        "filename": "2026-04-28-vidar-rises-to-top-of-chaotic-infostealer-market.md"
+    },
+    {
         "title": "Robinhood account creation flaw abused to send phishing emails",
         "date": "2026-04-28",
         "category": [
@@ -45,6 +78,17 @@
         "filename": "2026-04-28-robinhood-account-creation-flaw-abused-to-send-phishing-emails.md"
     },
     {
+        "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+        "date": "2026-04-28",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+        "filename": "2026-04-28-microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july.md"
+    },
+    {
         "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
         "date": "2026-04-28",
         "category": [
@@ -54,6 +98,40 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
         "filename": "2026-04-28-glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions.md"
+    },
+    {
+        "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Legal"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+        "filename": "2026-04-28-us-reportedly-charges-scattered-spider-hacker-arrested-in-finland.md"
+    },
+    {
+        "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+        "date": "2026-04-28",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+        "filename": "2026-04-28-checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data.md"
+    },
+    {
+        "title": "Video service Vimeo confirms Anodot breach exposed user data",
+        "date": "2026-04-28",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+        "filename": "2026-04-28-video-service-vimeo-confirms-anodot-breach-exposed-user-data.md"
     },
     {
         "title": "Home security giant ADT data breach affects 5.5 million people",
