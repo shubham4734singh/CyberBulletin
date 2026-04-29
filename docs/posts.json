@@ -1,5 +1,38 @@
 [
     {
+        "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+        "date": "2026-04-29",
+        "category": [
+            "Malware",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+        "filename": "2026-04-29-broken-vect-2-0-ransomware-acts-as-a-data-wiper-for-large-files.md"
+    },
+    {
+        "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+        "date": "2026-04-29",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+        "filename": "2026-04-29-hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw.md"
+    },
+    {
+        "title": "Feuding Ransomware Groups Leak Each Other's Data",
+        "date": "2026-04-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-04-29-feuding-ransomware-groups-leak-each-other-s-data.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+        "filename": "2026-04-29-feuding-ransomware-groups-leak-each-other-s-data.md"
+    },
+    {
         "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
         "date": "2026-04-28",
         "category": [
