@@ -11,6 +11,30 @@
         "filename": "2026-04-29-broken-vect-2-0-ransomware-acts-as-a-data-wiper-for-large-files.md"
     },
     {
+        "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
+        "date": "2026-04-29",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+        "filename": "2026-04-29-hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts.md"
+    },
+    {
+        "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform",
+        "date": "2026-04-29",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-29-ai-finds-38-security-flaws-in-electronic-health-record-platform.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
+        "filename": "2026-04-29-ai-finds-38-security-flaws-in-electronic-health-record-platform.md"
+    },
+    {
         "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
         "date": "2026-04-29",
         "category": [
@@ -22,6 +46,29 @@
         "filename": "2026-04-29-hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw.md"
     },
     {
+        "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+        "date": "2026-04-29",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+        "filename": "2026-04-29-github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos.md"
+    },
+    {
+        "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+        "date": "2026-04-29",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+        "filename": "2026-04-29-cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug.md"
+    },
+    {
         "title": "Feuding Ransomware Groups Leak Each Other's Data",
         "date": "2026-04-29",
         "category": [
@@ -31,6 +78,18 @@
         "thumbnail": "assets/images/2026-04-29-feuding-ransomware-groups-leak-each-other-s-data.jpg",
         "source_link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
         "filename": "2026-04-29-feuding-ransomware-groups-leak-each-other-s-data.md"
+    },
+    {
+        "title": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities",
+        "date": "2026-04-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-04-29-lotus-wiper-attack-targets-venezuelan-energy-firms-utilities.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
+        "filename": "2026-04-29-lotus-wiper-attack-targets-venezuelan-energy-firms-utilities.md"
     },
     {
         "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
