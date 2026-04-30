@@ -1,5 +1,16 @@
 [
     {
+        "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+        "filename": "2026-04-30-what-happens-in-the-first-24-hours-after-a-new-asset-goes-live.md"
+    },
+    {
         "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
         "date": "2026-04-30",
         "category": [
@@ -35,6 +46,28 @@
         "filename": "2026-04-30-official-sap-npm-packages-compromised-to-steal-credentials.md"
     },
     {
+        "title": "April KB5083769 Windows 11 update causes backup software failures",
+        "date": "2026-04-30",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+        "filename": "2026-04-30-april-kb5083769-windows-11-update-causes-backup-software-failures.md"
+    },
+    {
+        "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
+        "date": "2026-04-30",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-04-30-oracle-red-bull-racing-team-revs-up-automation-to-boost-security.JPG",
+        "source_link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
+        "filename": "2026-04-30-oracle-red-bull-racing-team-revs-up-automation-to-boost-security.md"
+    },
+    {
         "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
         "date": "2026-04-30",
         "category": [
@@ -45,6 +78,39 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
         "filename": "2026-04-30-hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining.md"
+    },
+    {
+        "title": "Romanian leader of online swatting ring gets 4 years in prison",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+        "filename": "2026-04-30-romanian-leader-of-online-swatting-ring-gets-4-years-in-prison.md"
+    },
+    {
+        "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+        "filename": "2026-04-30-fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks.md"
+    },
+    {
+        "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+        "filename": "2026-04-30-new-bluekit-phishing-service-includes-an-ai-assistant-40-templates.md"
     },
     {
         "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
