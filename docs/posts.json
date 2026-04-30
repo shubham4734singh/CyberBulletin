@@ -1,5 +1,52 @@
 [
     {
+        "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-04-30-claude-mythos-fears-startle-japan-s-financial-services-sector.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
+        "filename": "2026-04-30-claude-mythos-fears-startle-japan-s-financial-services-sector.md"
+    },
+    {
+        "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+        "date": "2026-04-30",
+        "category": [
+            "Malware",
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+        "filename": "2026-04-30-popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years.md"
+    },
+    {
+        "title": "Official SAP npm packages compromised to steal credentials",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+        "filename": "2026-04-30-official-sap-npm-packages-compromised-to-steal-credentials.md"
+    },
+    {
+        "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+        "date": "2026-04-30",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+        "filename": "2026-04-30-hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining.md"
+    },
+    {
         "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
         "date": "2026-04-29",
         "category": [
