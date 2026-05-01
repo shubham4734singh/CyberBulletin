@@ -1,5 +1,16 @@
 [
     {
+        "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+        "date": "2026-05-01",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+        "filename": "2026-05-01-microsoft-fixes-remote-desktop-warnings-displaying-incorrectly.md"
+    },
+    {
         "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
         "date": "2026-05-01",
         "category": [
@@ -9,6 +20,27 @@
         "thumbnail": "assets/images/2026-05-01-anthropic-s-mythos-has-landed-here-s-what-comes-next-for-cyber.jpg",
         "source_link": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
         "filename": "2026-05-01-anthropic-s-mythos-has-landed-here-s-what-comes-next-for-cyber.md"
+    },
+    {
+        "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
+        "date": "2026-05-01",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
+        "filename": "2026-05-01-microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall.md"
+    },
+    {
+        "title": "Name That Toon: Mark of (Security) Progress",
+        "date": "2026-05-01",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-01-name-that-toon-mark-of-security-progress.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
+        "filename": "2026-05-01-name-that-toon-mark-of-security-progress.md"
     },
     {
         "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
@@ -23,6 +55,17 @@
         "filename": "2026-05-01-us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks.md"
     },
     {
+        "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+        "date": "2026-05-01",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+        "filename": "2026-05-01-criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations.md"
+    },
+    {
         "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
         "date": "2026-05-01",
         "category": [
@@ -34,6 +77,29 @@
         "filename": "2026-05-01-another-ai-assisted-software-scan-yields-9-year-old-linux-bug.md"
     },
     {
+        "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
+        "date": "2026-05-01",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-01-20-years-in-cyber-dark-reading-marks-milestone-with-month-of-special-coverage.jpeg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
+        "filename": "2026-05-01-20-years-in-cyber-dark-reading-marks-milestone-with-month-of-special-coverage.md"
+    },
+    {
+        "title": "15-year-old detained over French govt agency data breach",
+        "date": "2026-05-01",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Legal"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+        "filename": "2026-05-01-15-year-old-detained-over-french-govt-agency-data-breach.md"
+    },
+    {
         "title": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack",
         "date": "2026-05-01",
         "category": [
@@ -43,6 +109,28 @@
         "thumbnail": "assets/images/2026-05-01-teampcp-hits-sap-packages-with-mini-shai-hulud-attack.jpg",
         "source_link": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
         "filename": "2026-05-01-teampcp-hits-sap-packages-with-mini-shai-hulud-attack.md"
+    },
+    {
+        "title": "Story retracted",
+        "date": "2026-05-01",
+        "category": [
+            "Data Breach",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+        "filename": "2026-05-01-story-retracted.md"
+    },
+    {
+        "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
+        "date": "2026-05-01",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-01-if-ai-s-so-smart-why-does-it-keep-deleting-production-databases.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
+        "filename": "2026-05-01-if-ai-s-so-smart-why-does-it-keep-deleting-production-databases.md"
     },
     {
         "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
