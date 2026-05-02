@@ -1,5 +1,16 @@
 [
     {
+        "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+        "date": "2026-05-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+        "filename": "2026-05-02-consentfix-v3-attacks-target-azure-with-automated-oauth-abuse.md"
+    },
+    {
         "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
         "date": "2026-05-02",
         "category": [
