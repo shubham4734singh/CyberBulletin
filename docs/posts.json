@@ -1,5 +1,37 @@
 [
     {
+        "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+        "date": "2026-05-02",
+        "category": [
+            "Data Breach",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+        "filename": "2026-05-02-edu-tech-firm-instructure-discloses-cyber-incident-probes-impact.md"
+    },
+    {
+        "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+        "date": "2026-05-02",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+        "filename": "2026-05-02-microsoft-tests-modern-windows-run-says-it-s-faster-than-legacy-dialog.md"
+    },
+    {
+        "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
+        "date": "2026-05-02",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-05-02-76-of-all-crypto-stolen-in-2026-is-now-in-north-korea.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
+        "filename": "2026-05-02-76-of-all-crypto-stolen-in-2026-is-now-in-north-korea.md"
+    },
+    {
         "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
         "date": "2026-05-01",
         "category": [
