@@ -1,5 +1,27 @@
 [
     {
+        "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+        "date": "2026-05-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+        "filename": "2026-05-03-telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery.md"
+    },
+    {
+        "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+        "date": "2026-05-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+        "filename": "2026-05-03-microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigent-a-dha.md"
+    },
+    {
         "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
         "date": "2026-05-03",
         "category": [
