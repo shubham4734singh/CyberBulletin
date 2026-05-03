@@ -1,5 +1,17 @@
 [
     {
+        "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+        "date": "2026-05-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+        "filename": "2026-05-03-critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks.md"
+    },
+    {
         "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
         "date": "2026-05-02",
         "category": [
