@@ -11,6 +11,72 @@
         "filename": "2026-05-04-instructure-confirms-data-breach-shinyhunters-claims-attack.md"
     },
     {
+        "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+        "date": "2026-05-04",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+        "filename": "2026-05-04-progress-warns-of-critical-moveit-automation-auth-bypass-flaw.md"
+    },
+    {
+        "title": "How Dark Reading Lifted Off the Launchpad in 2006",
+        "date": "2026-05-04",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-04-how-dark-reading-lifted-off-the-launchpad-in-2006.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006",
+        "filename": "2026-05-04-how-dark-reading-lifted-off-the-launchpad-in-2006.md"
+    },
+    {
+        "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
+        "date": "2026-05-04",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+        "filename": "2026-05-04-they-don-t-hack-they-borrow-how-fraudsters-target-credit-unions.md"
+    },
+    {
+        "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
+        "date": "2026-05-04",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-04-silver-fox-springs-tax-themed-attacks-on-orgs-in-india-russia.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
+        "filename": "2026-05-04-silver-fox-springs-tax-themed-attacks-on-orgs-in-india-russia.md"
+    },
+    {
+        "title": "Backdoored PyTorch Lightning package drops credential stealer",
+        "date": "2026-05-04",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+        "filename": "2026-05-04-backdoored-pytorch-lightning-package-drops-credential-stealer.md"
+    },
+    {
+        "title": "Trellix discloses data breach after source code repository hack",
+        "date": "2026-05-04",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+        "filename": "2026-05-04-trellix-discloses-data-breach-after-source-code-repository-hack.md"
+    },
+    {
         "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
         "date": "2026-05-03",
         "category": [
