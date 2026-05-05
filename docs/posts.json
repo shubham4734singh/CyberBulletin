@@ -1,5 +1,49 @@
 [
     {
+        "title": "Amazon SES increasingly abused in phishing to evade detection",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+        "filename": "2026-05-05-amazon-ses-increasingly-abused-in-phishing-to-evade-detection.md"
+    },
+    {
+        "title": "RMM Tools Fuel Stealthy Phishing Campaign",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-05-rmm-tools-fuel-stealthy-phishing-campaign.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
+        "filename": "2026-05-05-rmm-tools-fuel-stealthy-phishing-campaign.md"
+    },
+    {
+        "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-05-exploit-cyber-frenzy-threatens-millions-via-critical-cpanel-vulnerability.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
+        "filename": "2026-05-05-exploit-cyber-frenzy-threatens-millions-via-critical-cpanel-vulnerability.md"
+    },
+    {
+        "title": "Weaver E-cology critical bug exploited in attacks since March",
+        "date": "2026-05-05",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+        "filename": "2026-05-05-weaver-e-cology-critical-bug-exploited-in-attacks-since-march.md"
+    },
+    {
         "title": "Instructure confirms data breach, ShinyHunters claims attack",
         "date": "2026-05-04",
         "category": [
