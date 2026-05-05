@@ -1,5 +1,49 @@
 [
     {
+        "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
+        "date": "2026-05-05",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-05-microsoft-edge-stores-passwords-in-process-memory-posing-enterprise-risk.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
+        "filename": "2026-05-05-microsoft-edge-stores-passwords-in-process-memory-posing-enterprise-risk.md"
+    },
+    {
+        "title": "Vimeo data breach exposes personal information of 119,000 people",
+        "date": "2026-05-05",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+        "filename": "2026-05-05-vimeo-data-breach-exposes-personal-information-of-119-000-people.md"
+    },
+    {
+        "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+        "filename": "2026-05-05-daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor.md"
+    },
+    {
+        "title": "Physical Cargo Theft Gets a Boost From Cybercriminals",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-05-physical-cargo-theft-gets-a-boost-from-cybercriminals.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
+        "filename": "2026-05-05-physical-cargo-theft-gets-a-boost-from-cybercriminals.md"
+    },
+    {
         "title": "Amazon SES increasingly abused in phishing to evade detection",
         "date": "2026-05-05",
         "category": [
@@ -11,6 +55,30 @@
         "filename": "2026-05-05-amazon-ses-increasingly-abused-in-phishing-to-evade-detection.md"
     },
     {
+        "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brades/",
+        "filename": "2026-05-05-student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes.md"
+    },
+    {
+        "title": "How the Story of a USB Penetration Test Went Viral",
+        "date": "2026-05-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-05-05-how-the-story-of-a-usb-penetration-test-went-viral.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
+        "filename": "2026-05-05-how-the-story-of-a-usb-penetration-test-went-viral.md"
+    },
+    {
         "title": "RMM Tools Fuel Stealthy Phishing Campaign",
         "date": "2026-05-05",
         "category": [
@@ -20,6 +88,18 @@
         "thumbnail": "assets/images/2026-05-05-rmm-tools-fuel-stealthy-phishing-campaign.jpg",
         "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
         "filename": "2026-05-05-rmm-tools-fuel-stealthy-phishing-campaign.md"
+    },
+    {
+        "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
+        "date": "2026-05-05",
+        "category": [
+            "Legal",
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+        "filename": "2026-05-05-ftc-to-ban-data-broker-kochava-from-selling-americans-location-data.md"
     },
     {
         "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
