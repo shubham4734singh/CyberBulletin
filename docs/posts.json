@@ -1,5 +1,95 @@
 [
     {
+        "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
+        "date": "2026-05-06",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-06-attacks-abuse-windows-phone-link-to-steal-texts-amp-bypass-2fa.png",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
+        "filename": "2026-05-06-attacks-abuse-windows-phone-link-to-steal-texts-amp-bypass-2fa.md"
+    },
+    {
+        "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+        "date": "2026-05-06",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+        "filename": "2026-05-06-new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices.md"
+    },
+    {
+        "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
+        "date": "2026-05-06",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-05-06-trellix-source-code-breach-highlights-growing-supply-chain-threats.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
+        "filename": "2026-05-06-trellix-source-code-breach-highlights-growing-supply-chain-threats.md"
+    },
+    {
+        "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+        "date": "2026-05-06",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+        "filename": "2026-05-06-critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts.md"
+    },
+    {
+        "title": "Why ransomware attacks succeed even when backups exist",
+        "date": "2026-05-06",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+        "filename": "2026-05-06-why-ransomware-attacks-succeed-even-when-backups-exist.md"
+    },
+    {
+        "title": "DAEMON Tools devs confirm breach, release malware-free version",
+        "date": "2026-05-06",
+        "category": [
+            "Malware",
+            "Data Breach",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+        "filename": "2026-05-06-daemon-tools-devs-confirm-breach-release-malware-free-version.md"
+    },
+    {
+        "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
+        "date": "2026-05-06",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-06-from-stuxnet-to-chatgpt-20-news-events-that-shaped-cyber.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
+        "filename": "2026-05-06-from-stuxnet-to-chatgpt-20-news-events-that-shaped-cyber.md"
+    },
+    {
+        "title": "Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations",
+        "date": "2026-05-06",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-06-research-hub-bridges-cybersecurity-gap-for-under-resourced-organizations.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations",
+        "filename": "2026-05-06-research-hub-bridges-cybersecurity-gap-for-under-resourced-organizations.md"
+    },
+    {
         "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
         "date": "2026-05-05",
         "category": [
