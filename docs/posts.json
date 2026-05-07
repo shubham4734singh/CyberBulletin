@@ -1,5 +1,17 @@
 [
     {
+        "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
+        "date": "2026-05-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-07-trustfall-convention-exposes-claude-code-execution-risk.jpg",
+        "source_link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+        "filename": "2026-05-07-trustfall-convention-exposes-claude-code-execution-risk.md"
+    },
+    {
         "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
         "date": "2026-05-07",
         "category": [
@@ -9,6 +21,28 @@
         "thumbnail": "assets/images/2026-05-07-yet-another-way-to-bypass-google-chrome-s-encryption-protection.jpg",
         "source_link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
         "filename": "2026-05-07-yet-another-way-to-bypass-google-chrome-s-encryption-protection.md"
+    },
+    {
+        "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+        "date": "2026-05-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+        "filename": "2026-05-07-australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware.md"
+    },
+    {
+        "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
+        "date": "2026-05-07",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-07-has-cisa-finally-found-its-new-leader-in-tom-parker.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
+        "filename": "2026-05-07-has-cisa-finally-found-its-new-leader-in-tom-parker.md"
     },
     {
         "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
@@ -22,6 +56,18 @@
         "filename": "2026-05-07-hackers-abuse-google-ads-for-godaddy-managewp-login-phishing.md"
     },
     {
+        "title": "Americans sentenced for running 'laptop farms' for North Korea",
+        "date": "2026-05-07",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
+        "filename": "2026-05-07-americans-sentenced-for-running-laptop-farms-for-north-korea.md"
+    },
+    {
         "title": "Instructure Breach Exposes Schools' Vendor Dependence",
         "date": "2026-05-07",
         "category": [
@@ -32,6 +78,28 @@
         "thumbnail": "assets/images/2026-05-07-instructure-breach-exposes-schools-vendor-dependence.jpg",
         "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
         "filename": "2026-05-07-instructure-breach-exposes-schools-vendor-dependence.md"
+    },
+    {
+        "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+        "date": "2026-05-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+        "filename": "2026-05-07-new-pcpjack-worm-steals-credentials-cleans-teampcp-infections.md"
+    },
+    {
+        "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+        "date": "2026-05-07",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+        "filename": "2026-05-07-ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks.md"
     },
     {
         "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
