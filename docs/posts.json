@@ -1,5 +1,39 @@
 [
     {
+        "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
+        "date": "2026-05-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-07-yet-another-way-to-bypass-google-chrome-s-encryption-protection.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
+        "filename": "2026-05-07-yet-another-way-to-bypass-google-chrome-s-encryption-protection.md"
+    },
+    {
+        "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+        "date": "2026-05-07",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+        "filename": "2026-05-07-hackers-abuse-google-ads-for-godaddy-managewp-login-phishing.md"
+    },
+    {
+        "title": "Instructure Breach Exposes Schools' Vendor Dependence",
+        "date": "2026-05-07",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-07-instructure-breach-exposes-schools-vendor-dependence.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
+        "filename": "2026-05-07-instructure-breach-exposes-schools-vendor-dependence.md"
+    },
+    {
         "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
         "date": "2026-05-06",
         "category": [
