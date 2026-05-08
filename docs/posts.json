@@ -1,5 +1,28 @@
 [
     {
+        "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+        "date": "2026-05-08",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+        "filename": "2026-05-08-canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign.md"
+    },
+    {
+        "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
+        "date": "2026-05-08",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+        "filename": "2026-05-08-new-linux-dirty-frag-zero-day-gives-root-on-all-major-distros.md"
+    },
+    {
         "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
         "date": "2026-05-07",
         "category": [
