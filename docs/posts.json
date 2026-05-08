@@ -1,5 +1,60 @@
 [
     {
+        "title": "Why More Analysts Won\u2019t Solve Your SOC\u2019s Alert Problem",
+        "date": "2026-05-08",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+        "filename": "2026-05-08-why-more-analysts-won-t-solve-your-soc-s-alert-problem.md"
+    },
+    {
+        "title": "Trellix source code breach claimed by RansomHouse hackers",
+        "date": "2026-05-08",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+        "filename": "2026-05-08-trellix-source-code-breach-claimed-by-ransomhouse-hackers.md"
+    },
+    {
+        "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+        "date": "2026-05-08",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+        "filename": "2026-05-08-cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day.md"
+    },
+    {
+        "title": "Zara data breach exposed personal information of 197,000 people",
+        "date": "2026-05-08",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+        "filename": "2026-05-08-zara-data-breach-exposed-personal-information-of-197-000-people.md"
+    },
+    {
+        "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+        "date": "2026-05-08",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+        "filename": "2026-05-08-nvidia-confirms-geforce-now-data-breach-affecting-armenian-users.md"
+    },
+    {
         "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
         "date": "2026-05-08",
         "category": [
