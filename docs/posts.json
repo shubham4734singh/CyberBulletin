@@ -1,5 +1,28 @@
 [
     {
+        "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+        "date": "2026-05-10",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+        "filename": "2026-05-10-hackers-abuse-google-ads-claude-ai-chats-to-push-mac-malware.md"
+    },
+    {
+        "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+        "date": "2026-05-10",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+        "filename": "2026-05-10-police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin.md"
+    },
+    {
         "title": "JDownloader site hacked to replace installers with Python RAT malware",
         "date": "2026-05-10",
         "category": [
