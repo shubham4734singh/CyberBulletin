@@ -1,5 +1,39 @@
 [
     {
+        "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
+        "date": "2026-05-11",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+        "filename": "2026-05-11-why-changing-passwords-doesn-t-end-an-active-directory-breach.md"
+    },
+    {
+        "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+        "date": "2026-05-11",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+        "filename": "2026-05-11-instructure-confirms-hackers-used-canvas-flaw-to-deface-portals.md"
+    },
+    {
+        "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+        "date": "2026-05-11",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+        "filename": "2026-05-11-webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks.md"
+    },
+    {
         "title": "TrickMo Android banker adopts TON blockchain for covert comms",
         "date": "2026-05-11",
         "category": [
@@ -9,6 +43,39 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
         "filename": "2026-05-11-trickmo-android-banker-adopts-ton-blockchain-for-covert-comms.md"
+    },
+    {
+        "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
+        "date": "2026-05-11",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-11-dirty-rag-exploit-poised-to-blow-up-on-enterprise-linux-distros.png",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
+        "filename": "2026-05-11-dirty-frag-exploit-poised-to-blow-up-on-enterprise-linux-distros.md"
+    },
+    {
+        "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
+        "date": "2026-05-11",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-05-11-cyber-espionage-group-targets-aviation-firms-to-steal-map-data.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
+        "filename": "2026-05-11-cyber-espionage-group-targets-aviation-firms-to-steal-map-data.md"
+    },
+    {
+        "title": "Hackers Use AI for Exploit Development, Attack Automation",
+        "date": "2026-05-11",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-11-hackers-use-ai-for-exploit-development-attack-automation.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+        "filename": "2026-05-11-hackers-use-ai-for-exploit-development-attack-automation.md"
     },
     {
         "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
