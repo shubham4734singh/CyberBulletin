@@ -11,6 +11,17 @@
         "filename": "2026-05-12-fcc-softens-ban-on-foreign-made-routers.md"
     },
     {
+        "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+        "date": "2026-05-12",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+        "filename": "2026-05-12-windows-11-kb5089549-kb5087420-cumulative-updates-released.md"
+    },
+    {
         "title": "New GhostLock tool abuses Windows API to block file access",
         "date": "2026-05-12",
         "category": [
@@ -20,6 +31,40 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
         "filename": "2026-05-12-new-ghostlock-tool-abuses-windows-api-to-block-file-access.md"
+    },
+    {
+        "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+        "date": "2026-05-12",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+        "filename": "2026-05-12-microsoft-releases-windows-10-kb5087544-extended-security-update.md"
+    },
+    {
+        "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
+        "date": "2026-05-12",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-12-20-leaders-who-built-the-ciso-era-2-decades-of-change.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
+        "filename": "2026-05-12-20-leaders-who-built-the-ciso-era-2-decades-of-change.md"
+    },
+    {
+        "title": "Hugging Face Packages Weaponized With a Single File Tweak",
+        "date": "2026-05-12",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-12-hugging-face-packages-weaponized-with-a-single-file-tweak.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
+        "filename": "2026-05-12-hugging-face-packages-weaponized-with-a-single-file-tweak.md"
     },
     {
         "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
@@ -54,6 +99,17 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
         "filename": "2026-05-12-official-checkmarx-jenkins-package-compromised-with-infostealer.md"
+    },
+    {
+        "title": "Signal adds security warnings for social engineering, phishing attacks",
+        "date": "2026-05-12",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+        "filename": "2026-05-12-signal-adds-security-warnings-for-social-engineering-phishing-attacks.md"
     },
     {
         "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
