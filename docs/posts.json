@@ -1,5 +1,61 @@
 [
     {
+        "title": "FCC Softens Ban on Foreign-Made Routers",
+        "date": "2026-05-12",
+        "category": [
+            "Industry News",
+            "Legal"
+        ],
+        "thumbnail": "assets/images/2026-05-12-fcc-softens-ban-on-foreign-made-routers.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
+        "filename": "2026-05-12-fcc-softens-ban-on-foreign-made-routers.md"
+    },
+    {
+        "title": "New GhostLock tool abuses Windows API to block file access",
+        "date": "2026-05-12",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+        "filename": "2026-05-12-new-ghostlock-tool-abuses-windows-api-to-block-file-access.md"
+    },
+    {
+        "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
+        "date": "2026-05-12",
+        "category": [
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+        "filename": "2026-05-12-gm-agrees-to-12-75m-california-settlement-over-sale-of-drivers-data.md"
+    },
+    {
+        "title": "Tech Can't Stop These Threats \u2014 Your People Can",
+        "date": "2026-05-12",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-05-12-tech-can-t-stop-these-threats-your-people-can.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
+        "filename": "2026-05-12-tech-can-t-stop-these-threats-your-people-can.md"
+    },
+    {
+        "title": "Official CheckMarx Jenkins package compromised with infostealer",
+        "date": "2026-05-12",
+        "category": [
+            "Malware",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+        "filename": "2026-05-12-official-checkmarx-jenkins-package-compromised-with-infostealer.md"
+    },
+    {
         "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach",
         "date": "2026-05-11",
         "category": [
