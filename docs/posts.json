@@ -1,5 +1,40 @@
 [
     {
+        "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+        "date": "2026-05-13",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+        "filename": "2026-05-13-us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack.md"
+    },
+    {
+        "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+        "date": "2026-05-13",
+        "category": [
+            "Data Breach",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+        "filename": "2026-05-13-uk-fines-water-supplier-1-3m-for-exposing-data-of-664k-customers.md"
+    },
+    {
+        "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
+        "date": "2026-05-13",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-13-it-s-patch-tuesday-for-microsoft-and-not-a-zero-day-in-sight.jpg",
+        "source_link": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
+        "filename": "2026-05-13-it-s-patch-tuesday-for-microsoft-and-not-a-zero-day-in-sight.md"
+    },
+    {
         "title": "FCC Softens Ban on Foreign-Made Routers",
         "date": "2026-05-12",
         "category": [
