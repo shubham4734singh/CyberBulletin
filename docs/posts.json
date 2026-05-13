@@ -12,6 +12,40 @@
         "filename": "2026-05-13-us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack.md"
     },
     {
+        "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+        "date": "2026-05-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+        "filename": "2026-05-13-foxconn-confirms-cyberattack-claimed-by-nitrogen-ransomware-gang.md"
+    },
+    {
+        "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
+        "date": "2026-05-13",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-13-dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape.png",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+        "filename": "2026-05-13-dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape.md"
+    },
+    {
+        "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+        "date": "2026-05-13",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+        "filename": "2026-05-13-windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released.md"
+    },
+    {
         "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
         "date": "2026-05-13",
         "category": [
@@ -22,6 +56,50 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
         "filename": "2026-05-13-uk-fines-water-supplier-1-3m-for-exposing-data-of-664k-customers.md"
+    },
+    {
+        "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+        "date": "2026-05-13",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+        "filename": "2026-05-13-microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users.md"
+    },
+    {
+        "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+        "date": "2026-05-13",
+        "category": [
+            "Vulnerabilities",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+        "filename": "2026-05-13-microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers.md"
+    },
+    {
+        "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
+        "date": "2026-05-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-13-china-s-famoussparrow-apt-nests-in-south-caucasus-energy-firm.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+        "filename": "2026-05-13-china-s-famoussparrow-apt-nests-in-south-caucasus-energy-firm.md"
+    },
+    {
+        "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+        "date": "2026-05-13",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-13-latam-vibe-hackers-generate-custom-hacking-tools-on-the-fly.jpg",
+        "source_link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+        "filename": "2026-05-13-latam-vibe-hackers-generate-custom-hacking-tools-on-the-fly.md"
     },
     {
         "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
