@@ -1,5 +1,39 @@
 [
     {
+        "title": "Foxconn Attack Highlights Manufacturing's Cyber Crisis",
+        "date": "2026-05-14",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-05-14-foxconn-attack-highlights-manufacturing-s-cyber-crisis.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis",
+        "filename": "2026-05-14-foxconn-attack-highlights-manufacturing-s-cyber-crisis.md"
+    },
+    {
+        "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+        "date": "2026-05-14",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+        "filename": "2026-05-14-18-year-old-nginx-vulnerability-allows-dos-potential-rce.md"
+    },
+    {
+        "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
+        "date": "2026-05-14",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-14-frostyneighbor-apt-carefully-targets-govt-orgs-in-poland-ukraine.png",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
+        "filename": "2026-05-14-frostyneighbor-apt-carefully-targets-govt-orgs-in-poland-ukraine.md"
+    },
+    {
         "title": "Iranian hackers targeted major South Korean electronics maker",
         "date": "2026-05-14",
         "category": [
@@ -9,6 +43,18 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
         "filename": "2026-05-14-iranian-hackers-targeted-major-south-korean-electronics-maker.md"
+    },
+    {
+        "title": "OpenAI confirms security breach in TanStack supply chain attack",
+        "date": "2026-05-14",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+        "filename": "2026-05-14-openai-confirms-security-breach-in-tanstack-supply-chain-attack.md"
     },
     {
         "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
@@ -44,6 +90,17 @@
         "thumbnail": "assets/images/2026-05-14-checkbox-assessments-aren-t-fit-to-measure-to-risk.jpg",
         "source_link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
         "filename": "2026-05-14-checkbox-assessments-aren-t-fit-to-measure-to-risk.md"
+    },
+    {
+        "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
+        "date": "2026-05-14",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-14-ai-drives-cybersecurity-investments-widening-valley-of-death.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
+        "filename": "2026-05-14-ai-drives-cybersecurity-investments-widening-valley-of-death.md"
     },
     {
         "title": "New critical Exim mailer flaw allows remote code execution",
