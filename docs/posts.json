@@ -22,6 +22,17 @@
         "filename": "2026-05-15-teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md"
     },
     {
+        "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+        "filename": "2026-05-15-microsoft-backpedals-edge-to-stop-loading-passwords-into-memory.md"
+    },
+    {
         "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
         "date": "2026-05-15",
         "category": [
@@ -31,6 +42,18 @@
         "thumbnail": "assets/images/2026-05-15-taiwan-incident-highlights-cybersecurity-gaps-in-rail-systems.jpg",
         "source_link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
         "filename": "2026-05-15-taiwan-incident-highlights-cybersecurity-gaps-in-rail-systems.md"
+    },
+    {
+        "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+        "date": "2026-05-15",
+        "category": [
+            "Vulnerabilities",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+        "filename": "2026-05-15-funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards.md"
     },
     {
         "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
@@ -44,6 +67,30 @@
         "filename": "2026-05-15-securityscorecard-snags-driftnet-to-level-up-threat-intelligence.md"
     },
     {
+        "title": "Congress Puts Heat on Instructure After Canvas Outage",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-15-congress-puts-heat-on-instructure-after-canvas-outage.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+        "filename": "2026-05-15-congress-puts-heat-on-instructure-after-canvas-outage.md"
+    },
+    {
+        "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+        "date": "2026-05-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+        "filename": "2026-05-15-avada-builder-wordpress-plugin-flaws-allow-site-credential-theft.md"
+    },
+    {
         "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
         "date": "2026-05-15",
         "category": [
@@ -53,6 +100,40 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
         "filename": "2026-05-15-cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks.md"
+    },
+    {
+        "title": "Cyber Pioneers Ponder Past as Prologue",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-15-cyber-pioneers-ponder-past-as-prologue.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
+        "filename": "2026-05-15-cyber-pioneers-ponder-past-as-prologue.md"
+    },
+    {
+        "title": "Popular node-ipc npm package compromised to steal credentials",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+        "filename": "2026-05-15-popular-node-ipc-npm-package-compromised-to-steal-credentials.md"
+    },
+    {
+        "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+        "date": "2026-05-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+        "filename": "2026-05-15-microsoft-exchange-windows-11-hacked-on-second-day-of-pwn2own.md"
     },
     {
         "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
