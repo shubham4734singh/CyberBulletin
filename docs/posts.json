@@ -1,5 +1,71 @@
 [
     {
+        "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild",
+        "date": "2026-05-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-15-maximum-severity-cisco-sd-wan-bug-exploited-in-the-wild.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited",
+        "filename": "2026-05-15-maximum-severity-cisco-sd-wan-bug-exploited-in-the-wild.md"
+    },
+    {
+        "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+        "filename": "2026-05-15-teampcp-hackers-advertise-mistral-ai-code-repos-for-sale.md"
+    },
+    {
+        "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-15-taiwan-incident-highlights-cybersecurity-gaps-in-rail-systems.jpg",
+        "source_link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
+        "filename": "2026-05-15-taiwan-incident-highlights-cybersecurity-gaps-in-rail-systems.md"
+    },
+    {
+        "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
+        "date": "2026-05-15",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-15-securityscorecard-snags-driftnet-to-level-up-threat-intelligence.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
+        "filename": "2026-05-15-securityscorecard-snags-driftnet-to-level-up-threat-intelligence.md"
+    },
+    {
+        "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+        "date": "2026-05-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+        "filename": "2026-05-15-cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks.md"
+    },
+    {
+        "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+        "date": "2026-05-15",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+        "filename": "2026-05-15-hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin.md"
+    },
+    {
         "title": "Foxconn Attack Highlights Manufacturing's Cyber Crisis",
         "date": "2026-05-14",
         "category": [
