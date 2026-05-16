@@ -11,6 +11,17 @@
         "filename": "2026-05-16-the-boring-stuff-is-dangerous-now.md"
     },
     {
+        "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+        "date": "2026-05-16",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+        "filename": "2026-05-16-russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet.md"
+    },
+    {
         "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild",
         "date": "2026-05-15",
         "category": [
