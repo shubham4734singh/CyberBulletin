@@ -1,5 +1,16 @@
 [
     {
+        "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+        "date": "2026-05-17",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+        "filename": "2026-05-17-tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing.md"
+    },
+    {
         "title": "The Boring Stuff is Dangerous Now",
         "date": "2026-05-16",
         "category": [
