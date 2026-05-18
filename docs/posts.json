@@ -1,5 +1,16 @@
 [
     {
+        "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+        "date": "2026-05-18",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+        "filename": "2026-05-18-leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign.md"
+    },
+    {
         "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
         "date": "2026-05-18",
         "category": [
@@ -45,6 +56,16 @@
         "filename": "2026-05-18-exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw.md"
     },
     {
+        "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+        "date": "2026-05-18",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+        "filename": "2026-05-18-microsoft-testing-adjustable-taskbar-start-menu-in-windows-11.md"
+    },
+    {
         "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
         "date": "2026-05-18",
         "category": [
@@ -54,6 +75,40 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
         "filename": "2026-05-18-new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released.md"
+    },
+    {
+        "title": "Grafana says stolen GitHub token let hackers steal codebase",
+        "date": "2026-05-18",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+        "filename": "2026-05-18-grafana-says-stolen-github-token-let-hackers-steal-codebase.md"
+    },
+    {
+        "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+        "date": "2026-05-18",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+        "filename": "2026-05-18-5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees.md"
+    },
+    {
+        "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
+        "date": "2026-05-18",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-18-fuel-tank-breaches-expand-scope-of-iran-s-cyber-offensive.png",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+        "filename": "2026-05-18-fuel-tank-breaches-expand-scope-of-iran-s-cyber-offensive.md"
     },
     {
         "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
