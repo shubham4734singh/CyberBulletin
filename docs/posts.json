@@ -1,5 +1,61 @@
 [
     {
+        "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+        "date": "2026-05-18",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+        "filename": "2026-05-18-hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026.md"
+    },
+    {
+        "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
+        "date": "2026-05-18",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-18-can-laws-stop-deepfakes-south-korea-aims-to-find-out.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+        "filename": "2026-05-18-can-laws-stop-deepfakes-south-korea-aims-to-find-out.md"
+    },
+    {
+        "title": "Microsoft confirms Windows 11 security update install issues",
+        "date": "2026-05-18",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+        "filename": "2026-05-18-microsoft-confirms-windows-11-security-update-install-issues.md"
+    },
+    {
+        "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+        "date": "2026-05-18",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+        "filename": "2026-05-18-exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw.md"
+    },
+    {
+        "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+        "date": "2026-05-18",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+        "filename": "2026-05-18-new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released.md"
+    },
+    {
         "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
         "date": "2026-05-17",
         "category": [
