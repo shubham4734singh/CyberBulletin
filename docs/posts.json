@@ -1,5 +1,49 @@
 [
     {
+        "title": "SHub macOS infostealer variant spoofs Apple security updates",
+        "date": "2026-05-19",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+        "filename": "2026-05-19-shub-macos-infostealer-variant-spoofs-apple-security-updates.md"
+    },
+    {
+        "title": "Shai-Hulud Worm Clones Spread After Code Release",
+        "date": "2026-05-19",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-19-shai-hulud-worm-clones-spread-after-code-release.jpg",
+        "source_link": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
+        "filename": "2026-05-19-shai-hulud-worm-clones-spread-after-code-release.md"
+    },
+    {
+        "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
+        "date": "2026-05-19",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-19-claw-chain-vulnerabilities-threaten-openclaw-deployments.jpg",
+        "source_link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+        "filename": "2026-05-19-claw-chain-vulnerabilities-threaten-openclaw-deployments.md"
+    },
+    {
+        "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+        "date": "2026-05-19",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-19-microsoft-exchange-zero-day-under-attack-no-patch-available.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+        "filename": "2026-05-19-microsoft-exchange-zero-day-under-attack-no-patch-available.md"
+    },
+    {
         "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
         "date": "2026-05-18",
         "category": [
