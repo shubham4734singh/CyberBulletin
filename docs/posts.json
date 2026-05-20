@@ -1,5 +1,108 @@
 [
     {
+        "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
+        "date": "2026-05-20",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-20-interpol-s-operation-ramz-pioneers-cross-region-collabs-in-middle-east.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
+        "filename": "2026-05-20-interpol-s-operation-ramz-pioneers-cross-region-collabs-in-middle-east.md"
+    },
+    {
+        "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+        "date": "2026-05-20",
+        "category": [
+            "Data Breach",
+            "Malware",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+        "filename": "2026-05-20-github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension.md"
+    },
+    {
+        "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+        "date": "2026-05-20",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+        "filename": "2026-05-20-max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking.md"
+    },
+    {
+        "title": "What Will Make AI BOMs Real?",
+        "date": "2026-05-20",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-20-what-will-make-ai-boms-real.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real",
+        "filename": "2026-05-20-what-will-make-ai-boms-real.md"
+    },
+    {
+        "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+        "date": "2026-05-20",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+        "filename": "2026-05-20-microsoft-shares-mitigation-for-yellowkey-windows-zero-day.md"
+    },
+    {
+        "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
+        "date": "2026-05-20",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-20-cisa-exposes-secrets-credentials-in-private-repo.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
+        "filename": "2026-05-20-cisa-exposes-secrets-credentials-in-private-repo.md"
+    },
+    {
+        "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+        "date": "2026-05-20",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+        "filename": "2026-05-20-cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware.md"
+    },
+    {
+        "title": "Windows Zero-Day Barrage Continues After Patch Tuesday",
+        "date": "2026-05-20",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-20-windows-zero-day-barrage-continues-after-patch-tuesday.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday",
+        "filename": "2026-05-20-windows-zero-day-barrage-continues-after-patch-tuesday.md"
+    },
+    {
+        "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+        "date": "2026-05-20",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+        "filename": "2026-05-20-github-investigates-internal-repositories-breach-claimed-by-teampcp.md"
+    },
+    {
         "title": "SHub macOS infostealer variant spoofs Apple security updates",
         "date": "2026-05-19",
         "category": [
