@@ -1,5 +1,27 @@
 [
     {
+        "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+        "date": "2026-05-21",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+        "filename": "2026-05-21-max-severity-cisco-secure-workload-flaw-gives-site-admin-privileges.md"
+    },
+    {
+        "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
+        "date": "2026-05-21",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-21-chinese-apts-share-linux-backdoor-in-central-asia-telco-attacks.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
+        "filename": "2026-05-21-chinese-apts-share-linux-backdoor-in-central-asia-telco-attacks.md"
+    },
+    {
         "title": "Microsoft warns of new Defender zero-days exploited in attacks",
         "date": "2026-05-21",
         "category": [
@@ -20,6 +42,17 @@
         "thumbnail": "assets/images/2026-05-21-github-confirms-breach-4k-internal-repos-stolen.jpg",
         "source_link": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
         "filename": "2026-05-21-github-confirms-breach-4k-internal-repos-stolen.md"
+    },
+    {
+        "title": "Chinese hackers target telcos with new Linux, Windows malware",
+        "date": "2026-05-21",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+        "filename": "2026-05-21-chinese-hackers-target-telcos-with-new-linux-windows-malware.md"
     },
     {
         "title": "GitHub links repo breach to TanStack npm supply-chain attack",
@@ -45,6 +78,28 @@
         "filename": "2026-05-21-cyber-pros-can-t-decide-if-ai-is-a-good-or-a-bad-thing.md"
     },
     {
+        "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
+        "date": "2026-05-21",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-21-content-delivery-exploit-opens-websites-to-brand-hijacking.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
+        "filename": "2026-05-21-content-delivery-exploit-opens-websites-to-brand-hijacking.md"
+    },
+    {
+        "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+        "date": "2026-05-21",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+        "filename": "2026-05-21-apple-blocked-over-11-billion-in-app-store-fraud-in-6-years.md"
+    },
+    {
         "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
         "date": "2026-05-21",
         "category": [
@@ -55,6 +110,28 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
         "filename": "2026-05-21-hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching.md"
+    },
+    {
+        "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+        "date": "2026-05-21",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-21-ai-agents-are-shifting-identity-security-budget-dynamics.jpg",
+        "source_link": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+        "filename": "2026-05-21-ai-agents-are-shifting-identity-security-budget-dynamics.md"
+    },
+    {
+        "title": "Google accidentally exposed details of unfixed Chromium flaw",
+        "date": "2026-05-21",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+        "filename": "2026-05-21-google-accidentally-exposed-details-of-unfixed-chromium-flaw.md"
     },
     {
         "title": "Grafana breach caused by missed token rotation after TanStack attack",
