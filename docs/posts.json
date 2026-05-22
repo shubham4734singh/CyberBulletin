@@ -11,6 +11,17 @@
         "filename": "2026-05-22-china-s-webworm-uses-discord-microsoft-graphs-to-hack-eu-govts.md"
     },
     {
+        "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+        "date": "2026-05-22",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-22-akamai-joins-growing-chorus-of-vendors-betting-big-on-secure-enterprise-browsers.jpg",
+        "source_link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+        "filename": "2026-05-22-akamai-joins-growing-chorus-of-vendors-betting-big-on-secure-enterprise-browsers.md"
+    },
+    {
         "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
         "date": "2026-05-22",
         "category": [
@@ -23,6 +34,30 @@
         "filename": "2026-05-22-us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md"
     },
     {
+        "title": "Former US execs plead guilty to aiding tech support scammers",
+        "date": "2026-05-22",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+        "filename": "2026-05-22-former-us-execs-plead-guilty-to-aiding-tech-support-scammers.md"
+    },
+    {
+        "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+        "date": "2026-05-22",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+        "filename": "2026-05-22-netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks.md"
+    },
+    {
         "title": "Google API Keys Remain Active After Deletion",
         "date": "2026-05-22",
         "category": [
@@ -32,6 +67,39 @@
         "thumbnail": "assets/images/2026-05-22-google-api-keys-remain-active-after-deletion.jpg",
         "source_link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
         "filename": "2026-05-22-google-api-keys-remain-active-after-deletion.md"
+    },
+    {
+        "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+        "date": "2026-05-22",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+        "filename": "2026-05-22-drupal-critical-sql-injection-flaw-now-targeted-in-attacks.md"
+    },
+    {
+        "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+        "date": "2026-05-22",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+        "filename": "2026-05-22-trend-micro-warns-of-apex-one-zero-day-exploited-in-the-wild.md"
+    },
+    {
+        "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+        "date": "2026-05-22",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
+        "filename": "2026-05-22-why-chargebacks-are-just-one-piece-of-the-fraud-puzzle.md"
     },
     {
         "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
