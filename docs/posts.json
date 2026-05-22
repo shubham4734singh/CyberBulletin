@@ -1,5 +1,50 @@
 [
     {
+        "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.",
+        "date": "2026-05-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-22-china-s-webworm-uses-discord-microsoft-graphs-to-hack-eu-govts.jpg",
+        "source_link": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
+        "filename": "2026-05-22-china-s-webworm-uses-discord-microsoft-graphs-to-hack-eu-govts.md"
+    },
+    {
+        "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+        "date": "2026-05-22",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+        "filename": "2026-05-22-us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin.md"
+    },
+    {
+        "title": "Google API Keys Remain Active After Deletion",
+        "date": "2026-05-22",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-22-google-api-keys-remain-active-after-deletion.jpg",
+        "source_link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
+        "filename": "2026-05-22-google-api-keys-remain-active-after-deletion.md"
+    },
+    {
+        "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
+        "date": "2026-05-22",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-22-how-cisos-should-prep-for-agentic-ready-ai-boms.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
+        "filename": "2026-05-22-how-cisos-should-prep-for-agentic-ready-ai-boms.md"
+    },
+    {
         "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
         "date": "2026-05-21",
         "category": [
