@@ -12,6 +12,18 @@
         "filename": "2026-05-24-laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware.md"
     },
     {
+        "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+        "date": "2026-05-24",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+        "filename": "2026-05-24-ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign.md"
+    },
+    {
         "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.",
         "date": "2026-05-22",
         "category": [
