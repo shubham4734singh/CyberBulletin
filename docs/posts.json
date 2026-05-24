@@ -1,5 +1,17 @@
 [
     {
+        "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+        "date": "2026-05-24",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+        "filename": "2026-05-24-laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware.md"
+    },
+    {
         "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.",
         "date": "2026-05-22",
         "category": [
