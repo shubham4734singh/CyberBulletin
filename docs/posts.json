@@ -1,5 +1,27 @@
 [
     {
+        "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+        "date": "2026-05-25",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+        "filename": "2026-05-25-fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts.md"
+    },
+    {
+        "title": "Anthropic\u2019s restricted Claude Mythos model may be coming to Claude Code",
+        "date": "2026-05-25",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+        "filename": "2026-05-25-anthropic-s-restricted-claude-mythos-model-may-be-coming-to-claude-code.md"
+    },
+    {
         "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
         "date": "2026-05-24",
         "category": [
