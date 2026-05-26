@@ -1,5 +1,39 @@
 [
     {
+        "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+        "date": "2026-05-26",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+        "filename": "2026-05-26-microsoft-defender-can-now-automatically-isolate-hacked-endpoints.md"
+    },
+    {
+        "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+        "date": "2026-05-26",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+        "filename": "2026-05-26-how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance.md"
+    },
+    {
+        "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+        "date": "2026-05-26",
+        "category": [
+            "Vulnerabilities",
+            "Malware",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+        "filename": "2026-05-26-knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells.md"
+    },
+    {
         "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
         "date": "2026-05-26",
         "category": [
@@ -10,6 +44,39 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
         "filename": "2026-05-26-cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability.md"
+    },
+    {
+        "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
+        "date": "2026-05-26",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-26-remembering-tim-wilson-whose-legacy-lives-on-at-dark-reading.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
+        "filename": "2026-05-26-remembering-tim-wilson-whose-legacy-lives-on-at-dark-reading.md"
+    },
+    {
+        "title": "Charter confirms data breach after ShinyHunters extortion threat",
+        "date": "2026-05-26",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+        "filename": "2026-05-26-charter-confirms-data-breach-after-shinyhunters-extortion-threat.md"
+    },
+    {
+        "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+        "date": "2026-05-26",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-26-the-hackers-behind-shai-hulud-lucky-or-skilled.jpg",
+        "source_link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+        "filename": "2026-05-26-the-hackers-behind-shai-hulud-lucky-or-skilled.md"
     },
     {
         "title": "7-Eleven data breach exposes personal information of 185,000 people",
