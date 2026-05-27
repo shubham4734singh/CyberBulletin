@@ -1,5 +1,51 @@
 [
     {
+        "title": "Microsoft Issues Out-of-Band SharePoint Patch",
+        "date": "2026-05-27",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-27-microsoft-issues-out-of-band-sharepoint-patch.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch",
+        "filename": "2026-05-27-microsoft-issues-out-of-band-sharepoint-patch.md"
+    },
+    {
+        "title": "Windows 11 KB5089573 update released with performance improvements",
+        "date": "2026-05-27",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+        "filename": "2026-05-27-windows-11-kb5089573-update-released-with-performance-improvements.md"
+    },
+    {
+        "title": "Dutch police arrests suspect linked to Ajax football club hack",
+        "date": "2026-05-27",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
+        "filename": "2026-05-27-dutch-police-arrests-suspect-linked-to-ajax-football-club-hack.md"
+    },
+    {
+        "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+        "date": "2026-05-27",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+        "filename": "2026-05-27-cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw.md"
+    },
+    {
         "title": "Microsoft Defender can now automatically isolate hacked endpoints",
         "date": "2026-05-26",
         "category": [
