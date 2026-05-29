@@ -1,5 +1,49 @@
 [
     {
+        "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+        "filename": "2026-05-29-greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks.md"
+    },
+    {
+        "title": "BTMOB Android malware service generates custom phishing payloads",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
+        "filename": "2026-05-29-btmob-android-malware-service-generates-custom-phishing-payloads.md"
+    },
+    {
+        "title": "Charter Communications data breach affects 4.9 million accounts",
+        "date": "2026-05-29",
+        "category": [
+            "Data Breach",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+        "filename": "2026-05-29-charter-communications-data-breach-affects-4-9-million-accounts.md"
+    },
+    {
+        "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+        "filename": "2026-05-29-anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public.md"
+    },
+    {
         "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
         "date": "2026-05-28",
         "category": [
