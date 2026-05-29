@@ -11,6 +11,17 @@
         "filename": "2026-05-29-greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks.md"
     },
     {
+        "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+        "filename": "2026-05-29-chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware.md"
+    },
+    {
         "title": "BTMOB Android malware service generates custom phishing payloads",
         "date": "2026-05-29",
         "category": [
@@ -20,6 +31,62 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
         "filename": "2026-05-29-btmob-android-malware-service-generates-custom-phishing-payloads.md"
+    },
+    {
+        "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-05-29-with-complex-cloud-integrations-small-errors-lead-to-major-compromises.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises",
+        "filename": "2026-05-29-with-complex-cloud-integrations-small-errors-lead-to-major-compromises.md"
+    },
+    {
+        "title": "California AG sues 23andMe over 2023 breach exposing health data",
+        "date": "2026-05-29",
+        "category": [
+            "Data Breach",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+        "filename": "2026-05-29-california-ag-sues-23andme-over-2023-breach-exposing-health-data.md"
+    },
+    {
+        "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-05-29-as-global-powers-explore-humanoid-robots-cyber-risk-looms.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+        "filename": "2026-05-29-as-global-powers-explore-humanoid-robots-cyber-risk-looms.md"
+    },
+    {
+        "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+        "filename": "2026-05-29-from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market.md"
+    },
+    {
+        "title": "Asia's Cyber Insurance Market Shows Signs of Life",
+        "date": "2026-05-29",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "assets/images/2026-05-29-asia-s-cyber-insurance-market-shows-signs-of-life.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
+        "filename": "2026-05-29-asia-s-cyber-insurance-market-shows-signs-of-life.md"
     },
     {
         "title": "Charter Communications data breach affects 4.9 million accounts",
@@ -33,6 +100,28 @@
         "filename": "2026-05-29-charter-communications-data-breach-affects-4-9-million-accounts.md"
     },
     {
+        "title": "'The Com' Cyberattacks Support Violence & Sexploitation",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-05-29-the-com-cyberattacks-support-violence-amp-sexploitation.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
+        "filename": "2026-05-29-the-com-cyberattacks-support-violence-amp-sexploitation.md"
+    },
+    {
+        "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+        "filename": "2026-05-29-dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices.md"
+    },
+    {
         "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
         "date": "2026-05-29",
         "category": [
@@ -42,6 +131,17 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
         "filename": "2026-05-29-anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public.md"
+    },
+    {
+        "title": "Google Chrome adds session cookie theft protection for all users",
+        "date": "2026-05-29",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+        "filename": "2026-05-29-google-chrome-adds-session-cookie-theft-protection-for-all-users.md"
     },
     {
         "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
