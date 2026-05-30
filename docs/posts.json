@@ -1,5 +1,27 @@
 [
     {
+        "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+        "date": "2026-05-30",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+        "filename": "2026-05-30-new-cifswitch-linux-flaw-gives-root-on-multiple-distributions.md"
+    },
+    {
+        "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+        "date": "2026-05-30",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+        "filename": "2026-05-30-palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks.md"
+    },
+    {
         "title": "Name That Toon: Mark of (Cybersecurity) Progress",
         "date": "2026-05-30",
         "category": [
