@@ -1,5 +1,17 @@
 [
     {
+        "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+        "date": "2026-05-31",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+        "filename": "2026-05-31-wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites.md"
+    },
+    {
         "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
         "date": "2026-05-30",
         "category": [
