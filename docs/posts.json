@@ -11,6 +11,17 @@
         "filename": "2026-06-01-microsoft-fixes-kb5089549-windows-security-update-install-issues.md"
     },
     {
+        "title": "WordPress malware campaign hides payloads in Steam profiles",
+        "date": "2026-06-01",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+        "filename": "2026-06-01-wordpress-malware-campaign-hides-payloads-in-steam-profiles.md"
+    },
+    {
         "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform",
         "date": "2026-06-01",
         "category": [
@@ -20,6 +31,74 @@
         "thumbnail": null,
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
         "filename": "2026-06-01-microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform.md"
+    },
+    {
+        "title": "Anthropic to Open Mythos AI to EU's ENISA",
+        "date": "2026-06-01",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-06-01-anthropic-to-open-mythos-ai-to-eu-s-enisa.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
+        "filename": "2026-06-01-anthropic-to-open-mythos-ai-to-eu-s-enisa.md"
+    },
+    {
+        "title": "Dashlane password manager users locked out by brute force attacks",
+        "date": "2026-06-01",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+        "filename": "2026-06-01-dashlane-password-manager-users-locked-out-by-brute-force-attacks.md"
+    },
+    {
+        "title": "Microsoft investigates Office Apps, Teams file access issues",
+        "date": "2026-06-01",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+        "filename": "2026-06-01-microsoft-investigates-office-apps-teams-file-access-issues.md"
+    },
+    {
+        "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
+        "date": "2026-06-01",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-06-01-patch-now-another-palo-alto-auth-bypass-bug-under-active-exploit.png",
+        "source_link": "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
+        "filename": "2026-06-01-patch-now-another-palo-alto-auth-bypass-bug-under-active-exploit.md"
+    },
+    {
+        "title": "Spain arrests doxer leaking sensitive data of govt employees",
+        "date": "2026-06-01",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+        "filename": "2026-06-01-spain-arrests-doxer-leaking-sensitive-data-of-govt-employees.md"
+    },
+    {
+        "title": "Red Hat npm packages compromised to steal developer credentials",
+        "date": "2026-06-01",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+        "filename": "2026-06-01-red-hat-npm-packages-compromised-to-steal-developer-credentials.md"
     },
     {
         "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
