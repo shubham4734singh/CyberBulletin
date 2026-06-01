@@ -1,5 +1,27 @@
 [
     {
+        "title": "Microsoft fixes KB5089549 Windows security update install issues",
+        "date": "2026-06-01",
+        "category": [
+            "Industry News",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+        "filename": "2026-06-01-microsoft-fixes-kb5089549-windows-security-update-install-issues.md"
+    },
+    {
+        "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform",
+        "date": "2026-06-01",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
+        "filename": "2026-06-01-microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform.md"
+    },
+    {
         "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
         "date": "2026-05-31",
         "category": [
