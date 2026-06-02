@@ -1,5 +1,16 @@
 [
     {
+        "title": "Securing AI Agents Before They Go Rogue Is Next to Impossible",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-06-02-securing-ai-agents-before-they-go-rogue-is-next-to-impossible.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue",
+        "filename": "2026-06-02-securing-ai-agents-before-they-go-rogue-is-next-to-impossible.md"
+    },
+    {
         "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
         "date": "2026-06-02",
         "category": [
@@ -12,6 +23,17 @@
         "filename": "2026-06-02-microsoft-s-zero-day-legal-threats-spark-backlash.md"
     },
     {
+        "title": "Why the browser is now the front line for AI security",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+        "filename": "2026-06-02-why-the-browser-is-now-the-front-line-for-ai-security.md"
+    },
+    {
         "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
         "date": "2026-06-02",
         "category": [
@@ -21,6 +43,84 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
         "filename": "2026-06-02-hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md"
+    },
+    {
+        "title": "Microsoft Exchange Online outage causes email delays, failures",
+        "date": "2026-06-02",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+        "filename": "2026-06-02-microsoft-exchange-online-outage-causes-email-delays-failures.md"
+    },
+    {
+        "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+        "date": "2026-06-02",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+        "filename": "2026-06-02-cisa-flags-two-year-old-oracle-flaw-as-actively-exploited-in-attacks.md"
+    },
+    {
+        "title": "Instagram users locked out after Meta AI abused to steal accounts",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+        "filename": "2026-06-02-instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts.md"
+    },
+    {
+        "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-06-02-beyond-assume-breach-how-ai-native-security-will-reshape-enterprise-defense.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
+        "filename": "2026-06-02-beyond-assume-breach-how-ai-native-security-will-reshape-enterprise-defense.md"
+    },
+    {
+        "title": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-06-02-drivesurge-hijacks-thousands-of-sites-for-clickfix-fakeupdate-attacks.png",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks",
+        "filename": "2026-06-02-drivesurge-hijacks-thousands-of-sites-for-clickfix-fakeupdate-attacks.md"
+    },
+    {
+        "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+        "filename": "2026-06-02-ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery.md"
+    },
+    {
+        "title": "China Uses Dual-Method Cyberattack on Czech Orgs",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-06-02-china-uses-dual-method-cyberattack-on-czech-orgs.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs",
+        "filename": "2026-06-02-china-uses-dual-method-cyberattack-on-czech-orgs.md"
     },
     {
         "title": "Microsoft fixes KB5089549 Windows security update install issues",
