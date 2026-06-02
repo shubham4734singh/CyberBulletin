@@ -1,5 +1,28 @@
 [
     {
+        "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-06-02-microsoft-s-zero-day-legal-threats-spark-backlash.jpg",
+        "source_link": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+        "filename": "2026-06-02-microsoft-s-zero-day-legal-threats-spark-backlash.md"
+    },
+    {
+        "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+        "date": "2026-06-02",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+        "filename": "2026-06-02-hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks.md"
+    },
+    {
         "title": "Microsoft fixes KB5089549 Windows security update install issues",
         "date": "2026-06-01",
         "category": [
