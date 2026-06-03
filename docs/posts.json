@@ -1,5 +1,93 @@
 [
     {
+        "title": "Google adds Android protection against AI deepfake scam calls",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+        "filename": "2026-06-03-google-adds-android-protection-against-ai-deepfake-scam-calls.md"
+    },
+    {
+        "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-06-03-global-stock-exchange-hit-by-monthslong-email-campaign.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
+        "filename": "2026-06-03-global-stock-exchange-hit-by-monthslong-email-campaign.md"
+    },
+    {
+        "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-06-03-zoom-ciso-ai-as-security-enabler-not-role-replacer.jpg",
+        "source_link": "https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer",
+        "filename": "2026-06-03-zoom-ciso-ai-as-security-enabler-not-role-replacer.md"
+    },
+    {
+        "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+        "date": "2026-06-03",
+        "category": [
+            "Industry News",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+        "filename": "2026-06-03-openai-upgrades-gpt-5-5-as-it-plans-to-retire-legacy-chatgpt-models.md"
+    },
+    {
+        "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Legal",
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+        "filename": "2026-06-03-police-dismantles-9-crime-groups-in-illegal-streaming-crackdown.md"
+    },
+    {
+        "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+        "date": "2026-06-03",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+        "filename": "2026-06-03-microsoft-s-coreutils-project-brings-linux-commands-to-windows.md"
+    },
+    {
+        "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+        "date": "2026-06-03",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+        "filename": "2026-06-03-vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md"
+    },
+    {
+        "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-06-03-fbi-flagged-phishing-kit-kali365-expands-its-reach.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach",
+        "filename": "2026-06-03-fbi-flagged-phishing-kit-kali365-expands-its-reach.md"
+    },
+    {
         "title": "Securing AI Agents Before They Go Rogue Is Next to Impossible",
         "date": "2026-06-02",
         "category": [
