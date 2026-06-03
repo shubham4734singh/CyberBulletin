@@ -11,6 +11,28 @@
         "filename": "2026-06-03-google-adds-android-protection-against-ai-deepfake-scam-calls.md"
     },
     {
+        "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+        "date": "2026-06-03",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+        "filename": "2026-06-03-what-345-days-of-untested-exposure-looks-like-at-a-bank.md"
+    },
+    {
+        "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen",
+        "date": "2026-06-03",
+        "category": [
+            "Industry News",
+            "Legal"
+        ],
+        "thumbnail": "assets/images/2026-06-03-cyber-insurance-rates-are-dropping-but-exclusions-widen.jpg",
+        "source_link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
+        "filename": "2026-06-03-cyber-insurance-rates-are-dropping-but-exclusions-widen.md"
+    },
+    {
         "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
         "date": "2026-06-03",
         "category": [
@@ -20,6 +42,18 @@
         "thumbnail": "assets/images/2026-06-03-global-stock-exchange-hit-by-monthslong-email-campaign.jpg",
         "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
         "filename": "2026-06-03-global-stock-exchange-hit-by-monthslong-email-campaign.md"
+    },
+    {
+        "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover",
+        "date": "2026-06-03",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence",
+            "Industry News"
+        ],
+        "thumbnail": "assets/images/2026-06-03-coding-gaffe-exposes-microsoft-365-accounts-to-widespread-takeover.png",
+        "source_link": "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover",
+        "filename": "2026-06-03-coding-gaffe-exposes-microsoft-365-accounts-to-widespread-takeover.md"
     },
     {
         "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer",
@@ -66,6 +100,41 @@
         "filename": "2026-06-03-microsoft-s-coreutils-project-brings-linux-commands-to-windows.md"
     },
     {
+        "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Legal"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+        "filename": "2026-06-03-the-u-s-sanctions-nobitex-crypto-exchange-used-by-ransomware.md"
+    },
+    {
+        "title": "Malicious Notifications Could Trick Google Gemini Users",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-06-03-malicious-notifications-could-trick-google-gemini-users.jpg",
+        "source_link": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
+        "filename": "2026-06-03-malicious-notifications-could-trick-google-gemini-users.md"
+    },
+    {
+        "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+        "filename": "2026-06-03-cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems.md"
+    },
+    {
         "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
         "date": "2026-06-03",
         "category": [
@@ -75,6 +144,40 @@
         "thumbnail": "",
         "source_link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
         "filename": "2026-06-03-vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click.md"
+    },
+    {
+        "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities",
+            "Malware"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+        "filename": "2026-06-03-cisa-warns-of-active-attacks-exploiting-android-linux-bugs.md"
+    },
+    {
+        "title": "Tropical Blend: Cyber & Politics Ramp Up Across Latin America",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-06-03-tropical-blend-cyber-amp-politics-ramp-up-across-latin-america.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america",
+        "filename": "2026-06-03-tropical-blend-cyber-amp-politics-ramp-up-across-latin-america.md"
+    },
+    {
+        "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+        "date": "2026-06-03",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+        "filename": "2026-06-03-new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute.md"
     },
     {
         "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach",
