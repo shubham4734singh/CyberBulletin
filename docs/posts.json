@@ -1,5 +1,27 @@
 [
     {
+        "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+        "date": "2026-06-04",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+        "filename": "2026-06-04-chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks.md"
+    },
+    {
+        "title": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT",
+        "date": "2026-06-04",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-06-04-pakistan-spies-on-afghan-finance-ministry-with-xeno-rat.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
+        "filename": "2026-06-04-pakistan-spies-on-afghan-finance-ministry-with-xeno-rat.md"
+    },
+    {
         "title": "Google adds Android protection against AI deepfake scam calls",
         "date": "2026-06-03",
         "category": [
