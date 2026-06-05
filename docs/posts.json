@@ -1,5 +1,83 @@
 [
     {
+        "title": "China's TA4922 Expands Cybercrime Attacks Globally",
+        "date": "2026-06-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware"
+        ],
+        "thumbnail": "assets/images/2026-06-05-china-s-ta4922-expands-cybercrime-attacks-globally.jpg",
+        "source_link": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
+        "filename": "2026-06-05-china-s-ta4922-expands-cybercrime-attacks-globally.md"
+    },
+    {
+        "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
+        "date": "2026-06-05",
+        "category": [
+            "Industry News"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+        "filename": "2026-06-05-brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience.md"
+    },
+    {
+        "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+        "date": "2026-06-05",
+        "category": [
+            "Vulnerabilities",
+            "Threat Intelligence"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+        "filename": "2026-06-05-cisco-warns-of-unpatched-sd-wan-zero-day-exploited-in-attacks.md"
+    },
+    {
+        "title": "4 Critical Threats Where Attackers Have the Advantage",
+        "date": "2026-06-05",
+        "category": [
+            "Threat Intelligence",
+            "Vulnerabilities"
+        ],
+        "thumbnail": "assets/images/2026-06-05-4-critical-threats-where-attackers-have-the-advantage.jpg",
+        "source_link": "https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage",
+        "filename": "2026-06-05-4-critical-threats-where-attackers-have-the-advantage.md"
+    },
+    {
+        "title": "Hola Browser for Windows compromised to deliver cryptominer",
+        "date": "2026-06-05",
+        "category": [
+            "Malware",
+            "Threat Intelligence"
+        ],
+        "thumbnail": null,
+        "source_link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+        "filename": "2026-06-05-hola-browser-for-windows-compromised-to-deliver-cryptominer.md"
+    },
+    {
+        "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+        "date": "2026-06-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "",
+        "source_link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+        "filename": "2026-06-05-credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info.md"
+    },
+    {
+        "title": "Rust-Written IronWorm Hits NPM Supply Chain",
+        "date": "2026-06-05",
+        "category": [
+            "Threat Intelligence",
+            "Malware",
+            "Data Breach"
+        ],
+        "thumbnail": "assets/images/2026-06-05-rust-written-ironworm-hits-npm-supply-chain.jpg",
+        "source_link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
+        "filename": "2026-06-05-rust-written-ironworm-hits-npm-supply-chain.md"
+    },
+    {
         "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
         "date": "2026-06-04",
         "category": [
